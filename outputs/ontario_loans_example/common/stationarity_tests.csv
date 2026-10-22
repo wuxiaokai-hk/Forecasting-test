@@ -1,0 +1,739 @@
+mnemonic,transform,adf_p,stationary,theme,geography,expected_sign
+FGDPR.ION,dlog,1.334353689902471e-12,True,Output,Ontario,1
+FGDPR.ION,yoy,0.0001526723023041118,True,Output,Ontario,1
+FGDPR.ION,dlog2,7.01969669168211e-07,True,Output,Ontario,1
+FGDPR.ION,acc,0.0028794021940180396,True,Output,Ontario,1
+FGDPR.ION,gap,2.6153164645630382e-06,True,Output,Ontario,1
+FGDP$.ION,dlog,2.4967340356894916e-15,True,Output,Ontario,1
+FGDP$.ION,yoy,0.00829935592073604,True,Output,Ontario,1
+FGDP$.ION,dlog2,0.00039967395521712807,True,Output,Ontario,1
+FGDP$.ION,acc,0.01726389250210303,True,Output,Ontario,1
+FGDP$.ION,gap,0.24072698794583114,False,Output,Ontario,1
+FET.ION,dlog,1.826355577554783e-14,True,Labour,Ontario,1
+FET.ION,yoy,0.001995353458770967,True,Labour,Ontario,1
+FET.ION,dlog2,0.00010995036578584568,True,Labour,Ontario,1
+FET.ION,acc,0.13372140283224837,False,Labour,Ontario,1
+FET.ION,gap,0.0018352990013976156,True,Labour,Ontario,1
+FLBR.ION,diff,7.163939957783531e-13,True,Labour,Ontario,-1
+FLBR.ION,diff2,1.6692479764894258e-06,True,Labour,Ontario,-1
+FLBR.ION,diff4,0.018365999825430013,True,Labour,Ontario,-1
+FLBR.ION,lvl,1.114245387295704e-05,True,Labour,Ontario,-1
+FLBR.ION,rgap,5.842482774567494e-06,True,Labour,Ontario,-1
+FLF.ION,dlog,1.565755809510733e-06,True,Labour,Ontario,1
+FLF.ION,yoy,0.42834411403206074,False,Labour,Ontario,1
+FLF.ION,dlog2,0.004025156534175737,True,Labour,Ontario,1
+FLF.ION,acc,0.17593196865001648,False,Labour,Ontario,1
+FLF.ION,gap,0.03790065983182658,True,Labour,Ontario,1
+FPOPT.ION,dlog,0.3158340989847652,False,Demographics,Ontario,1
+FPOPT.ION,yoy,0.8024913231846241,False,Demographics,Ontario,1
+FPOPT.ION,dlog2,0.02287782303866222,True,Demographics,Ontario,1
+FPOPT.ION,acc,0.5433644151812378,False,Demographics,Ontario,1
+FPOPT.ION,gap,0.3789054001852359,False,Demographics,Ontario,1
+FYPD.ION,dlog,1.0298294102804366e-15,True,Income,Ontario,1
+FYPD.ION,yoy,0.08607709642104255,False,Income,Ontario,1
+FYPD.ION,dlog2,0.009372278170054923,True,Income,Ontario,1
+FYPD.ION,acc,0.0218383660719118,True,Income,Ontario,1
+FYPD.ION,gap,0.19858005185877758,False,Income,Ontario,1
+FYPD.ION,rdlog,8.667714375969368e-18,True,Income,Ontario,1
+FYPD.ION,ryoy,0.002162014401003877,True,Income,Ontario,1
+FRS.ION,dlog,8.888280011855435e-15,True,Consumption,Ontario,1
+FRS.ION,yoy,0.07932170604478556,False,Consumption,Ontario,1
+FRS.ION,dlog2,0.008563200724677476,True,Consumption,Ontario,1
+FRS.ION,acc,0.03981465986373474,True,Consumption,Ontario,1
+FRS.ION,gap,0.13168685100395838,False,Consumption,Ontario,1
+FRS.ION,rdlog,2.121171224715135e-15,True,Consumption,Ontario,1
+FRS.ION,ryoy,0.012553523439598264,True,Consumption,Ontario,1
+FHST.ION,dlog,0.00024592553464575174,True,Housing,Ontario,1
+FHST.ION,yoy,0.06067118461553605,False,Housing,Ontario,1
+FHST.ION,dlog2,0.006139795912111726,True,Housing,Ontario,1
+FHST.ION,acc,0.0016878734028675706,True,Housing,Ontario,1
+FHST.ION,gap,0.010996017960644958,True,Housing,Ontario,1
+FHPI.ION,dlog,3.3010918952321522e-06,True,Housing,Ontario,1
+FHPI.ION,yoy,0.00018635978243600478,True,Housing,Ontario,1
+FHPI.ION,dlog2,0.01843595252004714,True,Housing,Ontario,1
+FHPI.ION,acc,2.356743684415357e-06,True,Housing,Ontario,1
+FHPI.ION,gap,0.0008358523364770866,True,Housing,Ontario,1
+FAWE.ION,dlog,1.202628008689335e-16,True,Income,Ontario,1
+FAWE.ION,yoy,0.049924532470422056,True,Income,Ontario,1
+FAWE.ION,dlog2,0.0051886761471947925,True,Income,Ontario,1
+FAWE.ION,acc,0.01131515232232318,True,Income,Ontario,1
+FAWE.ION,gap,0.16346102822344544,False,Income,Ontario,1
+FAWE.ION,rdlog,1.0555002242345233e-16,True,Income,Ontario,1
+FAWE.ION,ryoy,0.29897739749297825,False,Income,Ontario,1
+FBKCPT.ION,dlog,4.651400896059038e-12,True,Credit quality,Ontario,-1
+FBKCPT.ION,yoy,0.031792876046897255,True,Credit quality,Ontario,-1
+FBKCPT.ION,dlog2,0.000986666335884477,True,Credit quality,Ontario,-1
+FBKCPT.ION,acc,3.7876765652953034e-05,True,Credit quality,Ontario,-1
+FBKCPT.ION,gap,0.00014330489789097812,True,Credit quality,Ontario,-1
+FET.ITOR,dlog,3.3510539385221905e-21,True,Labour,Ontario - Toronto,1
+FET.ITOR,yoy,0.0008416209202504497,True,Labour,Ontario - Toronto,1
+FET.ITOR,dlog2,0.0017391432369276952,True,Labour,Ontario - Toronto,1
+FET.ITOR,acc,0.006512613508367123,True,Labour,Ontario - Toronto,1
+FET.ITOR,gap,1.5363972844013774e-05,True,Labour,Ontario - Toronto,1
+FLBR.ITOR,diff,3.500384708216764e-14,True,Labour,Ontario - Toronto,-1
+FLBR.ITOR,diff2,2.3068569248429183e-07,True,Labour,Ontario - Toronto,-1
+FLBR.ITOR,diff4,3.82029445790581e-05,True,Labour,Ontario - Toronto,-1
+FLBR.ITOR,lvl,9.126208050618031e-06,True,Labour,Ontario - Toronto,-1
+FLBR.ITOR,rgap,1.2222713390239683e-06,True,Labour,Ontario - Toronto,-1
+FHPI.ITOR,dlog,4.989176985676666e-07,True,Housing,Ontario - Toronto,1
+FHPI.ITOR,yoy,0.0013354028189254124,True,Housing,Ontario - Toronto,1
+FHPI.ITOR,dlog2,0.0003327197923285172,True,Housing,Ontario - Toronto,1
+FHPI.ITOR,acc,0.026348113989155236,True,Housing,Ontario - Toronto,1
+FHPI.ITOR,gap,0.0003038645205759964,True,Housing,Ontario - Toronto,1
+FHST.ITOR,dlog,3.992749002158976e-12,True,Housing,Ontario - Toronto,1
+FHST.ITOR,yoy,0.3283122587682793,False,Housing,Ontario - Toronto,1
+FHST.ITOR,dlog2,0.007654967373557879,True,Housing,Ontario - Toronto,1
+FHST.ITOR,acc,0.0035009548905739945,True,Housing,Ontario - Toronto,1
+FHST.ITOR,gap,0.09853117214640056,False,Housing,Ontario - Toronto,1
+FPOPT.ITOR,dlog,0.0002624012997985832,True,Demographics,Ontario - Toronto,1
+FPOPT.ITOR,yoy,0.2398570004939048,False,Demographics,Ontario - Toronto,1
+FPOPT.ITOR,dlog2,6.50274832561402e-05,True,Demographics,Ontario - Toronto,1
+FPOPT.ITOR,acc,0.024072856947601598,True,Demographics,Ontario - Toronto,1
+FPOPT.ITOR,gap,3.90060355120982e-06,True,Demographics,Ontario - Toronto,1
+FGDPR.ITOR,dlog,4.580873184574146e-12,True,Output,Ontario - Toronto,1
+FGDPR.ITOR,yoy,0.054192549212875626,False,Output,Ontario - Toronto,1
+FGDPR.ITOR,dlog2,6.365751831171265e-08,True,Output,Ontario - Toronto,1
+FGDPR.ITOR,acc,0.009179402238115631,True,Output,Ontario - Toronto,1
+FGDPR.ITOR,gap,0.00020883766379608743,True,Output,Ontario - Toronto,1
+FET.IOTT,dlog,1.9233979433054483e-13,True,Labour,Ontario - Ottawa-Gatineau,1
+FET.IOTT,yoy,0.04758080011038401,True,Labour,Ontario - Ottawa-Gatineau,1
+FET.IOTT,dlog2,0.05546727436050526,False,Labour,Ontario - Ottawa-Gatineau,1
+FET.IOTT,acc,0.06346927416652465,False,Labour,Ontario - Ottawa-Gatineau,1
+FET.IOTT,gap,0.07663353518570576,False,Labour,Ontario - Ottawa-Gatineau,1
+FLBR.IOTT,diff,5.566426416154694e-12,True,Labour,Ontario - Ottawa-Gatineau,-1
+FLBR.IOTT,diff2,8.536267426410948e-09,True,Labour,Ontario - Ottawa-Gatineau,-1
+FLBR.IOTT,diff4,0.1307959710728871,False,Labour,Ontario - Ottawa-Gatineau,-1
+FLBR.IOTT,lvl,0.0008845376486235917,True,Labour,Ontario - Ottawa-Gatineau,-1
+FLBR.IOTT,rgap,0.00029904020090883,True,Labour,Ontario - Ottawa-Gatineau,-1
+FHPI.IOTT,dlog,1.6302179784991907e-08,True,Housing,Ontario - Ottawa-Gatineau,1
+FHPI.IOTT,yoy,9.003770161945333e-06,True,Housing,Ontario - Ottawa-Gatineau,1
+FHPI.IOTT,dlog2,0.0004304252427884194,True,Housing,Ontario - Ottawa-Gatineau,1
+FHPI.IOTT,acc,4.047473808572432e-06,True,Housing,Ontario - Ottawa-Gatineau,1
+FHPI.IOTT,gap,1.9170364598607586e-05,True,Housing,Ontario - Ottawa-Gatineau,1
+FHST.IOTT,dlog,0.0002558199020637039,True,Housing,Ontario - Ottawa-Gatineau,1
+FHST.IOTT,yoy,0.09078445276362151,False,Housing,Ontario - Ottawa-Gatineau,1
+FHST.IOTT,dlog2,0.0015512936669030565,True,Housing,Ontario - Ottawa-Gatineau,1
+FHST.IOTT,acc,0.043686036910743985,True,Housing,Ontario - Ottawa-Gatineau,1
+FHST.IOTT,gap,0.013017301597422443,True,Housing,Ontario - Ottawa-Gatineau,1
+FPOPT.IOTT,dlog,0.0021642608629325647,True,Demographics,Ontario - Ottawa-Gatineau,1
+FPOPT.IOTT,yoy,0.1157499583008435,False,Demographics,Ontario - Ottawa-Gatineau,1
+FPOPT.IOTT,dlog2,1.2985789314801585e-06,True,Demographics,Ontario - Ottawa-Gatineau,1
+FPOPT.IOTT,acc,0.04334083539958639,True,Demographics,Ontario - Ottawa-Gatineau,1
+FPOPT.IOTT,gap,5.963375736581505e-06,True,Demographics,Ontario - Ottawa-Gatineau,1
+FGDPR.IOTT,dlog,3.013999913894332e-14,True,Output,Ontario - Ottawa-Gatineau,1
+FGDPR.IOTT,yoy,0.0602572714883093,False,Output,Ontario - Ottawa-Gatineau,1
+FGDPR.IOTT,dlog2,3.6011200603208217e-05,True,Output,Ontario - Ottawa-Gatineau,1
+FGDPR.IOTT,acc,0.013672960953333996,True,Output,Ontario - Ottawa-Gatineau,1
+FGDPR.IOTT,gap,1.783208263609395e-05,True,Output,Ontario - Ottawa-Gatineau,1
+FET.IHAM,dlog,1.3241535088446333e-21,True,Labour,Ontario - Hamilton,1
+FET.IHAM,yoy,0.04968071656078548,True,Labour,Ontario - Hamilton,1
+FET.IHAM,dlog2,0.011478211334547123,True,Labour,Ontario - Hamilton,1
+FET.IHAM,acc,0.11532601777756235,False,Labour,Ontario - Hamilton,1
+FET.IHAM,gap,0.0037845745908483717,True,Labour,Ontario - Hamilton,1
+FLBR.IHAM,diff,8.785767316861313e-12,True,Labour,Ontario - Hamilton,-1
+FLBR.IHAM,diff2,0.0005124417027341555,True,Labour,Ontario - Hamilton,-1
+FLBR.IHAM,diff4,0.034792731380977236,True,Labour,Ontario - Hamilton,-1
+FLBR.IHAM,lvl,0.0014234130986980613,True,Labour,Ontario - Hamilton,-1
+FLBR.IHAM,rgap,0.0016964851739293934,True,Labour,Ontario - Hamilton,-1
+FHPI.IHAM,dlog,3.2349774713106727e-06,True,Housing,Ontario - Hamilton,1
+FHPI.IHAM,yoy,0.0013276527614426179,True,Housing,Ontario - Hamilton,1
+FHPI.IHAM,dlog2,0.007969159118740961,True,Housing,Ontario - Hamilton,1
+FHPI.IHAM,acc,3.4846304253505824e-05,True,Housing,Ontario - Hamilton,1
+FHPI.IHAM,gap,0.002151443992557869,True,Housing,Ontario - Hamilton,1
+FHST.IHAM,dlog,1.3033099908245193e-12,True,Housing,Ontario - Hamilton,1
+FHST.IHAM,yoy,0.037005618445490336,True,Housing,Ontario - Hamilton,1
+FHST.IHAM,dlog2,0.004078106405087204,True,Housing,Ontario - Hamilton,1
+FHST.IHAM,acc,0.0017310601230109033,True,Housing,Ontario - Hamilton,1
+FHST.IHAM,gap,0.001525852924508372,True,Housing,Ontario - Hamilton,1
+FPOPT.IHAM,dlog,4.791602148119354e-05,True,Demographics,Ontario - Hamilton,1
+FPOPT.IHAM,yoy,0.35345741317243917,False,Demographics,Ontario - Hamilton,1
+FPOPT.IHAM,dlog2,1.8299544416381028e-05,True,Demographics,Ontario - Hamilton,1
+FPOPT.IHAM,acc,0.039488776652955575,True,Demographics,Ontario - Hamilton,1
+FPOPT.IHAM,gap,2.4288964729975334e-05,True,Demographics,Ontario - Hamilton,1
+FGDPR.IHAM,dlog,1.9743922055804594e-15,True,Output,Ontario - Hamilton,1
+FGDPR.IHAM,yoy,8.910382836606477e-05,True,Output,Ontario - Hamilton,1
+FGDPR.IHAM,dlog2,4.8940459057039395e-06,True,Output,Ontario - Hamilton,1
+FGDPR.IHAM,acc,2.075522695119527e-05,True,Output,Ontario - Hamilton,1
+FGDPR.IHAM,gap,0.00011696239062147752,True,Output,Ontario - Hamilton,1
+FET.IKIT,dlog,3.0556990517630575e-20,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,1
+FET.IKIT,yoy,0.005088569721920276,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,1
+FET.IKIT,dlog2,0.0005376692888312861,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,1
+FET.IKIT,acc,0.054016098638721984,False,Labour,Ontario - Kitchener-Cambridge-Waterloo,1
+FET.IKIT,gap,0.014015147037843267,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,1
+FLBR.IKIT,diff,1.488905933050604e-17,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,-1
+FLBR.IKIT,diff2,4.672439266725581e-05,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,-1
+FLBR.IKIT,diff4,0.0001526731573909219,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,-1
+FLBR.IKIT,lvl,0.0005123232566162358,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,-1
+FLBR.IKIT,rgap,0.0006013081358484171,True,Labour,Ontario - Kitchener-Cambridge-Waterloo,-1
+FHPI.IKIT,dlog,2.0268258760039774e-08,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHPI.IKIT,yoy,0.0023919433559702915,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHPI.IKIT,dlog2,0.001742200404491466,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHPI.IKIT,acc,3.327141867211861e-06,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHPI.IKIT,gap,0.0019567184846222443,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHST.IKIT,dlog,2.697136888280343e-08,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHST.IKIT,yoy,0.09258606103953243,False,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHST.IKIT,dlog2,0.005771718890530043,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHST.IKIT,acc,0.021807673843583092,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FHST.IKIT,gap,0.0054290744183676755,True,Housing,Ontario - Kitchener-Cambridge-Waterloo,1
+FPOPT.IKIT,dlog,3.8069315402170144e-08,True,Demographics,Ontario - Kitchener-Cambridge-Waterloo,1
+FPOPT.IKIT,yoy,0.013637915268801435,True,Demographics,Ontario - Kitchener-Cambridge-Waterloo,1
+FPOPT.IKIT,dlog2,0.0007501124373526797,True,Demographics,Ontario - Kitchener-Cambridge-Waterloo,1
+FPOPT.IKIT,acc,0.02302300988343619,True,Demographics,Ontario - Kitchener-Cambridge-Waterloo,1
+FPOPT.IKIT,gap,0.0002482448839299407,True,Demographics,Ontario - Kitchener-Cambridge-Waterloo,1
+FGDPR.IKIT,dlog,2.1988886168858675e-13,True,Output,Ontario - Kitchener-Cambridge-Waterloo,1
+FGDPR.IKIT,yoy,5.6341977212904625e-05,True,Output,Ontario - Kitchener-Cambridge-Waterloo,1
+FGDPR.IKIT,dlog2,2.0007147041814854e-07,True,Output,Ontario - Kitchener-Cambridge-Waterloo,1
+FGDPR.IKIT,acc,8.524581046542776e-05,True,Output,Ontario - Kitchener-Cambridge-Waterloo,1
+FGDPR.IKIT,gap,1.1042995266106082e-07,True,Output,Ontario - Kitchener-Cambridge-Waterloo,1
+FET.ILON,dlog,1.1299744344365357e-20,True,Labour,Ontario - London,1
+FET.ILON,yoy,0.11000404022244303,False,Labour,Ontario - London,1
+FET.ILON,dlog2,0.00016441920495027866,True,Labour,Ontario - London,1
+FET.ILON,acc,0.012798127752843723,True,Labour,Ontario - London,1
+FET.ILON,gap,0.019172806544613574,True,Labour,Ontario - London,1
+FLBR.ILON,diff,5.5203717678328545e-09,True,Labour,Ontario - London,-1
+FLBR.ILON,diff2,1.0621106502288278e-08,True,Labour,Ontario - London,-1
+FLBR.ILON,diff4,5.055359652406205e-05,True,Labour,Ontario - London,-1
+FLBR.ILON,lvl,4.7219213770322016e-07,True,Labour,Ontario - London,-1
+FLBR.ILON,rgap,1.7188715505868275e-06,True,Labour,Ontario - London,-1
+FHPI.ILON,dlog,8.463966425824127e-09,True,Housing,Ontario - London,1
+FHPI.ILON,yoy,0.001715225260030509,True,Housing,Ontario - London,1
+FHPI.ILON,dlog2,0.012053480965197037,True,Housing,Ontario - London,1
+FHPI.ILON,acc,1.8090472606586727e-05,True,Housing,Ontario - London,1
+FHPI.ILON,gap,0.0009700365618218339,True,Housing,Ontario - London,1
+FHST.ILON,dlog,2.0532688829592465e-12,True,Housing,Ontario - London,1
+FHST.ILON,yoy,0.008904266893482046,True,Housing,Ontario - London,1
+FHST.ILON,dlog2,0.0002724405636569186,True,Housing,Ontario - London,1
+FHST.ILON,acc,0.017437103003768228,True,Housing,Ontario - London,1
+FHST.ILON,gap,0.0003536035143670503,True,Housing,Ontario - London,1
+FPOPT.ILON,dlog,9.15776152941048e-06,True,Demographics,Ontario - London,1
+FPOPT.ILON,yoy,4.9935071782405834e-05,True,Demographics,Ontario - London,1
+FPOPT.ILON,dlog2,0.00015678819993860212,True,Demographics,Ontario - London,1
+FPOPT.ILON,acc,0.0005642637580833748,True,Demographics,Ontario - London,1
+FPOPT.ILON,gap,0.00013427430477567525,True,Demographics,Ontario - London,1
+FGDPR.ILON,dlog,1.3018510431618036e-12,True,Output,Ontario - London,1
+FGDPR.ILON,yoy,0.00028947900398049707,True,Output,Ontario - London,1
+FGDPR.ILON,dlog2,1.480048839419843e-07,True,Output,Ontario - London,1
+FGDPR.ILON,acc,0.025676147639605133,True,Output,Ontario - London,1
+FGDPR.ILON,gap,7.146906989624065e-06,True,Output,Ontario - London,1
+FET.IWIN,dlog,7.456770751393871e-15,True,Labour,Ontario - Windsor,1
+FET.IWIN,yoy,0.004155488558795892,True,Labour,Ontario - Windsor,1
+FET.IWIN,dlog2,0.01778414681881548,True,Labour,Ontario - Windsor,1
+FET.IWIN,acc,0.07167763619685437,False,Labour,Ontario - Windsor,1
+FET.IWIN,gap,0.004076291494589933,True,Labour,Ontario - Windsor,1
+FLBR.IWIN,diff,6.745290330766324e-24,True,Labour,Ontario - Windsor,-1
+FLBR.IWIN,diff2,9.582266551596786e-08,True,Labour,Ontario - Windsor,-1
+FLBR.IWIN,diff4,0.0013135067477214313,True,Labour,Ontario - Windsor,-1
+FLBR.IWIN,lvl,8.825500412016193e-06,True,Labour,Ontario - Windsor,-1
+FLBR.IWIN,rgap,4.697333549403837e-05,True,Labour,Ontario - Windsor,-1
+FHPI.IWIN,dlog,4.8685845464659796e-09,True,Housing,Ontario - Windsor,1
+FHPI.IWIN,yoy,0.001059397986164384,True,Housing,Ontario - Windsor,1
+FHPI.IWIN,dlog2,0.0007843450838116008,True,Housing,Ontario - Windsor,1
+FHPI.IWIN,acc,0.00013232527638472373,True,Housing,Ontario - Windsor,1
+FHPI.IWIN,gap,0.0019582184743297017,True,Housing,Ontario - Windsor,1
+FHST.IWIN,dlog,6.366485708838882e-11,True,Housing,Ontario - Windsor,1
+FHST.IWIN,yoy,0.042458821653254285,True,Housing,Ontario - Windsor,1
+FHST.IWIN,dlog2,0.026908759645594103,True,Housing,Ontario - Windsor,1
+FHST.IWIN,acc,0.04939272686637806,True,Housing,Ontario - Windsor,1
+FHST.IWIN,gap,0.005287748404895928,True,Housing,Ontario - Windsor,1
+FPOPT.IWIN,dlog,0.0009836428760592938,True,Demographics,Ontario - Windsor,1
+FPOPT.IWIN,yoy,0.01588592167657636,True,Demographics,Ontario - Windsor,1
+FPOPT.IWIN,dlog2,0.00010196577758850475,True,Demographics,Ontario - Windsor,1
+FPOPT.IWIN,acc,0.013233989319170353,True,Demographics,Ontario - Windsor,1
+FPOPT.IWIN,gap,6.71279669996627e-05,True,Demographics,Ontario - Windsor,1
+FGDPR.IWIN,dlog,2.005174291750606e-12,True,Output,Ontario - Windsor,1
+FGDPR.IWIN,yoy,0.004390546072600482,True,Output,Ontario - Windsor,1
+FGDPR.IWIN,dlog2,2.9011873299636267e-10,True,Output,Ontario - Windsor,1
+FGDPR.IWIN,acc,0.010739246230733256,True,Output,Ontario - Windsor,1
+FGDPR.IWIN,gap,8.361740226355113e-06,True,Output,Ontario - Windsor,1
+FET.IOSH,dlog,1.1886903152503249e-17,True,Labour,Ontario - Oshawa,1
+FET.IOSH,yoy,0.057574062255295426,False,Labour,Ontario - Oshawa,1
+FET.IOSH,dlog2,1.9184716047501614e-05,True,Labour,Ontario - Oshawa,1
+FET.IOSH,acc,0.10398216880352101,False,Labour,Ontario - Oshawa,1
+FET.IOSH,gap,0.028709549729376338,True,Labour,Ontario - Oshawa,1
+FLBR.IOSH,diff,1.0702633175235934e-14,True,Labour,Ontario - Oshawa,-1
+FLBR.IOSH,diff2,1.824447136336085e-08,True,Labour,Ontario - Oshawa,-1
+FLBR.IOSH,diff4,0.001157856698067026,True,Labour,Ontario - Oshawa,-1
+FLBR.IOSH,lvl,2.9381982992833326e-05,True,Labour,Ontario - Oshawa,-1
+FLBR.IOSH,rgap,7.67879436709498e-05,True,Labour,Ontario - Oshawa,-1
+FHPI.IOSH,dlog,3.504056651710983e-08,True,Housing,Ontario - Oshawa,1
+FHPI.IOSH,yoy,0.004224765576275228,True,Housing,Ontario - Oshawa,1
+FHPI.IOSH,dlog2,0.004938349872128196,True,Housing,Ontario - Oshawa,1
+FHPI.IOSH,acc,2.1072610856552415e-05,True,Housing,Ontario - Oshawa,1
+FHPI.IOSH,gap,0.006074879285889484,True,Housing,Ontario - Oshawa,1
+FHST.IOSH,dlog,2.3165175857585643e-10,True,Housing,Ontario - Oshawa,1
+FHST.IOSH,yoy,0.008307537450808925,True,Housing,Ontario - Oshawa,1
+FHST.IOSH,dlog2,0.00031686913516396894,True,Housing,Ontario - Oshawa,1
+FHST.IOSH,acc,0.01871703185448811,True,Housing,Ontario - Oshawa,1
+FHST.IOSH,gap,0.004710820853524065,True,Housing,Ontario - Oshawa,1
+FPOPT.IOSH,dlog,0.0045379367637416335,True,Demographics,Ontario - Oshawa,1
+FPOPT.IOSH,yoy,0.0156948945632622,True,Demographics,Ontario - Oshawa,1
+FPOPT.IOSH,dlog2,0.0002960477096279605,True,Demographics,Ontario - Oshawa,1
+FPOPT.IOSH,acc,0.07311466579873419,False,Demographics,Ontario - Oshawa,1
+FPOPT.IOSH,gap,0.00014388801783250972,True,Demographics,Ontario - Oshawa,1
+FGDPR.IOSH,dlog,1.828377963714151e-11,True,Output,Ontario - Oshawa,1
+FGDPR.IOSH,yoy,0.0075006713388854635,True,Output,Ontario - Oshawa,1
+FGDPR.IOSH,dlog2,1.6016593220115979e-06,True,Output,Ontario - Oshawa,1
+FGDPR.IOSH,acc,0.0032949351486346095,True,Output,Ontario - Oshawa,1
+FGDPR.IOSH,gap,5.683735337522201e-06,True,Output,Ontario - Oshawa,1
+FET.ISTC,dlog,9.06872425691668e-16,True,Labour,Ontario - St. Catharines-Niagara,1
+FET.ISTC,yoy,0.0013042907222879999,True,Labour,Ontario - St. Catharines-Niagara,1
+FET.ISTC,dlog2,1.3308428494922328e-05,True,Labour,Ontario - St. Catharines-Niagara,1
+FET.ISTC,acc,0.00035632853715494985,True,Labour,Ontario - St. Catharines-Niagara,1
+FET.ISTC,gap,0.0025899474337436287,True,Labour,Ontario - St. Catharines-Niagara,1
+FLBR.ISTC,diff,3.740988937850759e-12,True,Labour,Ontario - St. Catharines-Niagara,-1
+FLBR.ISTC,diff2,6.264837140773555e-08,True,Labour,Ontario - St. Catharines-Niagara,-1
+FLBR.ISTC,diff4,0.0007056732490303839,True,Labour,Ontario - St. Catharines-Niagara,-1
+FLBR.ISTC,lvl,0.00021702921652581576,True,Labour,Ontario - St. Catharines-Niagara,-1
+FLBR.ISTC,rgap,0.00019888077234835052,True,Labour,Ontario - St. Catharines-Niagara,-1
+FHPI.ISTC,dlog,4.147547855513763e-05,True,Housing,Ontario - St. Catharines-Niagara,1
+FHPI.ISTC,yoy,7.960409560934553e-05,True,Housing,Ontario - St. Catharines-Niagara,1
+FHPI.ISTC,dlog2,1.8266264710303184e-05,True,Housing,Ontario - St. Catharines-Niagara,1
+FHPI.ISTC,acc,1.6244886727817441e-06,True,Housing,Ontario - St. Catharines-Niagara,1
+FHPI.ISTC,gap,0.00011548507548310591,True,Housing,Ontario - St. Catharines-Niagara,1
+FHST.ISTC,dlog,6.766112749903216e-12,True,Housing,Ontario - St. Catharines-Niagara,1
+FHST.ISTC,yoy,0.023265473735220244,True,Housing,Ontario - St. Catharines-Niagara,1
+FHST.ISTC,dlog2,0.0005218556284132675,True,Housing,Ontario - St. Catharines-Niagara,1
+FHST.ISTC,acc,0.015679562115688845,True,Housing,Ontario - St. Catharines-Niagara,1
+FHST.ISTC,gap,0.001133893270231879,True,Housing,Ontario - St. Catharines-Niagara,1
+FPOPT.ISTC,dlog,0.0014446639035940202,True,Demographics,Ontario - St. Catharines-Niagara,1
+FPOPT.ISTC,yoy,0.09260623667791845,False,Demographics,Ontario - St. Catharines-Niagara,1
+FPOPT.ISTC,dlog2,0.00029527848126048383,True,Demographics,Ontario - St. Catharines-Niagara,1
+FPOPT.ISTC,acc,0.028012813255701038,True,Demographics,Ontario - St. Catharines-Niagara,1
+FPOPT.ISTC,gap,1.461955055663015e-05,True,Demographics,Ontario - St. Catharines-Niagara,1
+FGDPR.ISTC,dlog,1.0341768581466815e-11,True,Output,Ontario - St. Catharines-Niagara,1
+FGDPR.ISTC,yoy,0.00017522647516375194,True,Output,Ontario - St. Catharines-Niagara,1
+FGDPR.ISTC,dlog2,5.1438047971821905e-09,True,Output,Ontario - St. Catharines-Niagara,1
+FGDPR.ISTC,acc,3.2659409694931714e-05,True,Output,Ontario - St. Catharines-Niagara,1
+FGDPR.ISTC,gap,7.562102143059958e-05,True,Output,Ontario - St. Catharines-Niagara,1
+FET.IKIN,dlog,2.008801571616565e-13,True,Labour,Ontario - Kingston,1
+FET.IKIN,yoy,0.0019493493592774836,True,Labour,Ontario - Kingston,1
+FET.IKIN,dlog2,0.047794855110211885,True,Labour,Ontario - Kingston,1
+FET.IKIN,acc,0.1838174290519301,False,Labour,Ontario - Kingston,1
+FET.IKIN,gap,0.05091071371060917,False,Labour,Ontario - Kingston,1
+FLBR.IKIN,diff,9.038784690389294e-11,True,Labour,Ontario - Kingston,-1
+FLBR.IKIN,diff2,5.7545009142377003e-08,True,Labour,Ontario - Kingston,-1
+FLBR.IKIN,diff4,0.00019248033530313264,True,Labour,Ontario - Kingston,-1
+FLBR.IKIN,lvl,5.362401045735504e-05,True,Labour,Ontario - Kingston,-1
+FLBR.IKIN,rgap,6.226903892994337e-07,True,Labour,Ontario - Kingston,-1
+FHPI.IKIN,dlog,2.3061707864783997e-06,True,Housing,Ontario - Kingston,1
+FHPI.IKIN,yoy,0.0009904325945103707,True,Housing,Ontario - Kingston,1
+FHPI.IKIN,dlog2,0.05933436432739246,False,Housing,Ontario - Kingston,1
+FHPI.IKIN,acc,1.1889296456903586e-05,True,Housing,Ontario - Kingston,1
+FHPI.IKIN,gap,0.00027456233540866374,True,Housing,Ontario - Kingston,1
+FHST.IKIN,dlog,6.496780313923442e-08,True,Housing,Ontario - Kingston,1
+FHST.IKIN,yoy,0.02122858528048605,True,Housing,Ontario - Kingston,1
+FHST.IKIN,dlog2,0.0007617323277637777,True,Housing,Ontario - Kingston,1
+FHST.IKIN,acc,0.004395647588609023,True,Housing,Ontario - Kingston,1
+FHST.IKIN,gap,9.642522696938045e-05,True,Housing,Ontario - Kingston,1
+FPOPT.IKIN,dlog,0.00857324932573141,True,Demographics,Ontario - Kingston,1
+FPOPT.IKIN,yoy,0.0022883159953599264,True,Demographics,Ontario - Kingston,1
+FPOPT.IKIN,dlog2,3.877001062642195e-05,True,Demographics,Ontario - Kingston,1
+FPOPT.IKIN,acc,0.016624636572905988,True,Demographics,Ontario - Kingston,1
+FPOPT.IKIN,gap,5.530233054104428e-05,True,Demographics,Ontario - Kingston,1
+FGDPR.IKIN,dlog,9.566145210020474e-13,True,Output,Ontario - Kingston,1
+FGDPR.IKIN,yoy,0.00010607829161230357,True,Output,Ontario - Kingston,1
+FGDPR.IKIN,dlog2,8.296722086031346e-07,True,Output,Ontario - Kingston,1
+FGDPR.IKIN,acc,0.007473057260151112,True,Output,Ontario - Kingston,1
+FGDPR.IKIN,gap,2.9373005480511922e-06,True,Output,Ontario - Kingston,1
+FET.IGUE,dlog,2.5857373595326653e-23,True,Labour,Ontario - Guelph,1
+FET.IGUE,yoy,0.0002902599205840637,True,Labour,Ontario - Guelph,1
+FET.IGUE,dlog2,0.00018953958798087196,True,Labour,Ontario - Guelph,1
+FET.IGUE,acc,0.005927942470375025,True,Labour,Ontario - Guelph,1
+FET.IGUE,gap,0.0007120227025418173,True,Labour,Ontario - Guelph,1
+FLBR.IGUE,diff,1.2973361315095464e-17,True,Labour,Ontario - Guelph,-1
+FLBR.IGUE,diff2,8.204552243100544e-06,True,Labour,Ontario - Guelph,-1
+FLBR.IGUE,diff4,8.328474243462448e-05,True,Labour,Ontario - Guelph,-1
+FLBR.IGUE,lvl,3.2382066535962696e-05,True,Labour,Ontario - Guelph,-1
+FLBR.IGUE,rgap,6.806419019180571e-06,True,Labour,Ontario - Guelph,-1
+FHPI.IGUE,dlog,3.4344260457351395e-06,True,Housing,Ontario - Guelph,1
+FHPI.IGUE,yoy,0.03584077272533918,True,Housing,Ontario - Guelph,1
+FHPI.IGUE,dlog2,1.791088517341592e-05,True,Housing,Ontario - Guelph,1
+FHPI.IGUE,acc,5.443697824548748e-06,True,Housing,Ontario - Guelph,1
+FHPI.IGUE,gap,1.53989704242854e-05,True,Housing,Ontario - Guelph,1
+FHST.IGUE,dlog,4.016516709741231e-10,True,Housing,Ontario - Guelph,1
+FHST.IGUE,yoy,0.011795396644900662,True,Housing,Ontario - Guelph,1
+FHST.IGUE,dlog2,8.59642578621094e-05,True,Housing,Ontario - Guelph,1
+FHST.IGUE,acc,0.009186720211526504,True,Housing,Ontario - Guelph,1
+FHST.IGUE,gap,0.008224978394951335,True,Housing,Ontario - Guelph,1
+FPOPT.IGUE,dlog,9.984045504838162e-05,True,Demographics,Ontario - Guelph,1
+FPOPT.IGUE,yoy,0.18805172624993743,False,Demographics,Ontario - Guelph,1
+FPOPT.IGUE,dlog2,2.7262645329882743e-05,True,Demographics,Ontario - Guelph,1
+FPOPT.IGUE,acc,0.01736323691839382,True,Demographics,Ontario - Guelph,1
+FPOPT.IGUE,gap,9.347815822980015e-06,True,Demographics,Ontario - Guelph,1
+FGDPR.IGUE,dlog,4.7020857147738215e-12,True,Output,Ontario - Guelph,1
+FGDPR.IGUE,yoy,0.0011607867429795236,True,Output,Ontario - Guelph,1
+FGDPR.IGUE,dlog2,1.2375104644087053e-07,True,Output,Ontario - Guelph,1
+FGDPR.IGUE,acc,8.05313341730017e-05,True,Output,Ontario - Guelph,1
+FGDPR.IGUE,gap,9.712320907145347e-05,True,Output,Ontario - Guelph,1
+FET.IBAR,dlog,1.4194126877144437e-22,True,Labour,Ontario - Barrie,1
+FET.IBAR,yoy,0.012492168651047129,True,Labour,Ontario - Barrie,1
+FET.IBAR,dlog2,6.942752193173696e-05,True,Labour,Ontario - Barrie,1
+FET.IBAR,acc,0.045510514247691675,True,Labour,Ontario - Barrie,1
+FET.IBAR,gap,0.001736382190045581,True,Labour,Ontario - Barrie,1
+FLBR.IBAR,diff,3.5700798588106784e-15,True,Labour,Ontario - Barrie,-1
+FLBR.IBAR,diff2,3.18123039075677e-05,True,Labour,Ontario - Barrie,-1
+FLBR.IBAR,diff4,0.06618698915982314,False,Labour,Ontario - Barrie,-1
+FLBR.IBAR,lvl,1.6527476795629738e-05,True,Labour,Ontario - Barrie,-1
+FLBR.IBAR,rgap,9.103514530782634e-06,True,Labour,Ontario - Barrie,-1
+FHPI.IBAR,dlog,4.20448746027546e-06,True,Housing,Ontario - Barrie,1
+FHPI.IBAR,yoy,5.5638260259166254e-05,True,Housing,Ontario - Barrie,1
+FHPI.IBAR,dlog2,0.00035688434775050365,True,Housing,Ontario - Barrie,1
+FHPI.IBAR,acc,2.1819975877280148e-05,True,Housing,Ontario - Barrie,1
+FHPI.IBAR,gap,0.004561634205253282,True,Housing,Ontario - Barrie,1
+FHST.IBAR,dlog,4.914218716193579e-12,True,Housing,Ontario - Barrie,1
+FHST.IBAR,yoy,0.06452263633118308,False,Housing,Ontario - Barrie,1
+FHST.IBAR,dlog2,0.0009109646987534565,True,Housing,Ontario - Barrie,1
+FHST.IBAR,acc,0.008005141826446517,True,Housing,Ontario - Barrie,1
+FHST.IBAR,gap,0.0014489423755778478,True,Housing,Ontario - Barrie,1
+FPOPT.IBAR,dlog,0.0002386184174714314,True,Demographics,Ontario - Barrie,1
+FPOPT.IBAR,yoy,0.39922015332796307,False,Demographics,Ontario - Barrie,1
+FPOPT.IBAR,dlog2,0.007127458837528605,True,Demographics,Ontario - Barrie,1
+FPOPT.IBAR,acc,0.10467570165098705,False,Demographics,Ontario - Barrie,1
+FPOPT.IBAR,gap,0.001851782302958401,True,Demographics,Ontario - Barrie,1
+FGDPR.IBAR,dlog,7.621867899590784e-10,True,Output,Ontario - Barrie,1
+FGDPR.IBAR,yoy,0.0004211004744463799,True,Output,Ontario - Barrie,1
+FGDPR.IBAR,dlog2,1.7471740324562078e-07,True,Output,Ontario - Barrie,1
+FGDPR.IBAR,acc,0.004399797154594949,True,Output,Ontario - Barrie,1
+FGDPR.IBAR,gap,4.952092660523203e-06,True,Output,Ontario - Barrie,1
+FET.ISUD,dlog,1.0895970169732034e-14,True,Labour,Ontario - Greater Sudbury,1
+FET.ISUD,yoy,0.008119899080189112,True,Labour,Ontario - Greater Sudbury,1
+FET.ISUD,dlog2,0.0019954706721502556,True,Labour,Ontario - Greater Sudbury,1
+FET.ISUD,acc,0.004781651769161937,True,Labour,Ontario - Greater Sudbury,1
+FET.ISUD,gap,0.011747037103367835,True,Labour,Ontario - Greater Sudbury,1
+FLBR.ISUD,diff,7.419666052509612e-12,True,Labour,Ontario - Greater Sudbury,-1
+FLBR.ISUD,diff2,3.571397001781693e-07,True,Labour,Ontario - Greater Sudbury,-1
+FLBR.ISUD,diff4,0.010781844403599005,True,Labour,Ontario - Greater Sudbury,-1
+FLBR.ISUD,lvl,1.6712402962676473e-05,True,Labour,Ontario - Greater Sudbury,-1
+FLBR.ISUD,rgap,8.533869733688646e-06,True,Labour,Ontario - Greater Sudbury,-1
+FHPI.ISUD,dlog,9.08095447948704e-05,True,Housing,Ontario - Greater Sudbury,1
+FHPI.ISUD,yoy,0.0013313380669361496,True,Housing,Ontario - Greater Sudbury,1
+FHPI.ISUD,dlog2,0.001122547313076456,True,Housing,Ontario - Greater Sudbury,1
+FHPI.ISUD,acc,2.2350973039246604e-05,True,Housing,Ontario - Greater Sudbury,1
+FHPI.ISUD,gap,0.0018657744340167765,True,Housing,Ontario - Greater Sudbury,1
+FHST.ISUD,dlog,1.8621387830100824e-08,True,Housing,Ontario - Greater Sudbury,1
+FHST.ISUD,yoy,0.05104867639518431,False,Housing,Ontario - Greater Sudbury,1
+FHST.ISUD,dlog2,0.024445528362043684,True,Housing,Ontario - Greater Sudbury,1
+FHST.ISUD,acc,0.006450013834651609,True,Housing,Ontario - Greater Sudbury,1
+FHST.ISUD,gap,0.015588598638549254,True,Housing,Ontario - Greater Sudbury,1
+FPOPT.ISUD,dlog,1.2148491357370686e-05,True,Demographics,Ontario - Greater Sudbury,1
+FPOPT.ISUD,yoy,0.0013508157535456551,True,Demographics,Ontario - Greater Sudbury,1
+FPOPT.ISUD,dlog2,4.288028288938971e-05,True,Demographics,Ontario - Greater Sudbury,1
+FPOPT.ISUD,acc,0.009904262314771673,True,Demographics,Ontario - Greater Sudbury,1
+FPOPT.ISUD,gap,8.124268905120258e-06,True,Demographics,Ontario - Greater Sudbury,1
+FGDPR.ISUD,dlog,4.7103231873829825e-12,True,Output,Ontario - Greater Sudbury,1
+FGDPR.ISUD,yoy,0.0001815164122171044,True,Output,Ontario - Greater Sudbury,1
+FGDPR.ISUD,dlog2,2.2800106422223063e-07,True,Output,Ontario - Greater Sudbury,1
+FGDPR.ISUD,acc,2.802683513291784e-06,True,Output,Ontario - Greater Sudbury,1
+FGDPR.ISUD,gap,6.245614654844318e-05,True,Output,Ontario - Greater Sudbury,1
+FGDPR.IC,dlog,1.5657911764926232e-12,True,Output,Canada,1
+FGDPR.IC,yoy,5.776862425082305e-05,True,Output,Canada,1
+FGDPR.IC,dlog2,1.6874339851872337e-05,True,Output,Canada,1
+FGDPR.IC,acc,2.3249395158559868e-06,True,Output,Canada,1
+FGDPR.IC,gap,1.8222253177444746e-06,True,Output,Canada,1
+FGDP$.IC,dlog,2.3175056881530053e-15,True,Output,Canada,1
+FGDP$.IC,yoy,0.008917166481467427,True,Output,Canada,1
+FGDP$.IC,dlog2,0.0037720159398070266,True,Output,Canada,1
+FGDP$.IC,acc,0.010394364084861439,True,Output,Canada,1
+FGDP$.IC,gap,0.008992679964208786,True,Output,Canada,1
+FCR.IC,dlog,6.92424783996143e-12,True,Consumption,Canada,1
+FCR.IC,yoy,0.0005506303547836628,True,Consumption,Canada,1
+FCR.IC,dlog2,8.606736039832292e-06,True,Consumption,Canada,1
+FCR.IC,acc,0.002944166638795212,True,Consumption,Canada,1
+FCR.IC,gap,8.910948382386427e-06,True,Consumption,Canada,1
+FCR.IC,rdlog,9.192929746455922e-24,True,Consumption,Canada,1
+FCR.IC,ryoy,0.350241974061535,False,Consumption,Canada,1
+FIR.IC,dlog,1.4257998524391353e-13,True,Housing,Canada,1
+FIR.IC,yoy,3.852857327062885e-06,True,Housing,Canada,1
+FIR.IC,dlog2,2.4924242607829267e-05,True,Housing,Canada,1
+FIR.IC,acc,0.005133877517022061,True,Housing,Canada,1
+FIR.IC,gap,0.000171537772199997,True,Housing,Canada,1
+FINR.IC,dlog,9.66461927472832e-16,True,Investment,Canada,1
+FINR.IC,yoy,0.07511882168651715,False,Investment,Canada,1
+FINR.IC,dlog2,0.0002592819274314957,True,Investment,Canada,1
+FINR.IC,acc,0.01096461958285545,True,Investment,Canada,1
+FINR.IC,gap,0.0013616155751247502,True,Investment,Canada,1
+FXR.IC,dlog,2.36925252577533e-20,True,Trade,Canada,1
+FXR.IC,yoy,0.3075764123161693,False,Trade,Canada,1
+FXR.IC,dlog2,8.443168379865486e-06,True,Trade,Canada,1
+FXR.IC,acc,0.07059398211510516,False,Trade,Canada,1
+FXR.IC,gap,0.0206785903066326,True,Trade,Canada,1
+FRBOC.IC,diff,0.0003269015475456659,True,Interest rates,Canada,-1
+FRBOC.IC,diff2,3.298503169425904e-05,True,Interest rates,Canada,-1
+FRBOC.IC,diff4,0.00041399594179062624,True,Interest rates,Canada,-1
+FRBOC.IC,lvl,0.0031656304948372493,True,Interest rates,Canada,-1
+FRBOC.IC,rgap,0.07183665828277783,False,Interest rates,Canada,-1
+FRPRIME.IC,diff,0.00032690154754566657,True,Interest rates,Canada,-1
+FRPRIME.IC,diff2,3.298503169425923e-05,True,Interest rates,Canada,-1
+FRPRIME.IC,diff4,0.000413995941790617,True,Interest rates,Canada,-1
+FRPRIME.IC,lvl,0.003165630494837301,True,Interest rates,Canada,-1
+FRPRIME.IC,rgap,0.0718366582827781,False,Interest rates,Canada,-1
+FRTB3M.IC,diff,0.0005838852952212647,True,Interest rates,Canada,-1
+FRTB3M.IC,diff2,7.662154905819439e-05,True,Interest rates,Canada,-1
+FRTB3M.IC,diff4,0.000438862429708849,True,Interest rates,Canada,-1
+FRTB3M.IC,lvl,0.005035260472085908,True,Interest rates,Canada,-1
+FRTB3M.IC,rgap,1.8728060244527382e-05,True,Interest rates,Canada,-1
+FRGOV2Y.IC,diff,8.01744459977193e-05,True,Interest rates,Canada,-1
+FRGOV2Y.IC,diff2,0.007715205590928407,True,Interest rates,Canada,-1
+FRGOV2Y.IC,diff4,0.32120362936358937,False,Interest rates,Canada,-1
+FRGOV2Y.IC,lvl,0.4105070603965152,False,Interest rates,Canada,-1
+FRGOV2Y.IC,rgap,1.8954258546102064e-06,True,Interest rates,Canada,-1
+FRGOV5Y.IC,diff,0.00011181028115818368,True,Interest rates,Canada,-1
+FRGOV5Y.IC,diff2,0.015944772120894006,True,Interest rates,Canada,-1
+FRGOV5Y.IC,diff4,0.42267938461653926,False,Interest rates,Canada,-1
+FRGOV5Y.IC,lvl,0.1715420875433239,False,Interest rates,Canada,-1
+FRGOV5Y.IC,rgap,2.4993524381201645e-05,True,Interest rates,Canada,-1
+FRGOV10Y.IC,diff,6.854187137888183e-05,True,Interest rates,Canada,-1
+FRGOV10Y.IC,diff2,0.03981287492223863,True,Interest rates,Canada,-1
+FRGOV10Y.IC,diff4,0.6949722513172574,False,Interest rates,Canada,-1
+FRGOV10Y.IC,lvl,0.2843751383716713,False,Interest rates,Canada,-1
+FRGOV10Y.IC,rgap,0.00013483818200115725,True,Interest rates,Canada,-1
+FRGOV30Y.IC,diff,4.8922441354914614e-05,True,Interest rates,Canada,-1
+FRGOV30Y.IC,diff2,5.36942786111673e-06,True,Interest rates,Canada,-1
+FRGOV30Y.IC,diff4,0.5865572538348354,False,Interest rates,Canada,-1
+FRGOV30Y.IC,lvl,0.15322117329879054,False,Interest rates,Canada,-1
+FRGOV30Y.IC,rgap,0.0006282508690213697,True,Interest rates,Canada,-1
+FRMORT1Y.IC,diff,0.002230806870424024,True,Interest rates,Canada,-1
+FRMORT1Y.IC,diff2,0.0028318800489204924,True,Interest rates,Canada,-1
+FRMORT1Y.IC,diff4,0.00021379442711848964,True,Interest rates,Canada,-1
+FRMORT1Y.IC,lvl,0.012251794982428713,True,Interest rates,Canada,-1
+FRMORT1Y.IC,rgap,0.06521690736461921,False,Interest rates,Canada,-1
+FRMORT3Y.IC,diff,0.00041627627102262414,True,Interest rates,Canada,-1
+FRMORT3Y.IC,diff2,0.014793056050109091,True,Interest rates,Canada,-1
+FRMORT3Y.IC,diff4,0.2891744947906982,False,Interest rates,Canada,-1
+FRMORT3Y.IC,lvl,0.14434850582915254,False,Interest rates,Canada,-1
+FRMORT3Y.IC,rgap,0.002835487256155626,True,Interest rates,Canada,-1
+FRMORT5Y.IC,diff,0.00011884655921750505,True,Interest rates,Canada,-1
+FRMORT5Y.IC,diff2,0.011187402611010835,True,Interest rates,Canada,-1
+FRMORT5Y.IC,diff4,0.40211507696638915,False,Interest rates,Canada,-1
+FRMORT5Y.IC,lvl,0.210203484197871,False,Interest rates,Canada,-1
+FRMORT5Y.IC,rgap,0.5792116076945584,False,Interest rates,Canada,-1
+FRCORPBBB.IC,diff,1.6380147495876295e-19,True,Interest rates,Canada,-1
+FRCORPBBB.IC,diff2,0.000290847734112496,True,Interest rates,Canada,-1
+FRCORPBBB.IC,diff4,0.3693431819862584,False,Interest rates,Canada,-1
+FRCORPBBB.IC,lvl,0.21388802310304816,False,Interest rates,Canada,-1
+FRCORPBBB.IC,rgap,0.7082000537670738,False,Interest rates,Canada,-1
+FRSPREAD.IC,diff,2.383359716501745e-16,True,Financial markets,Canada,-1
+FRSPREAD.IC,diff2,0.00010165679721300906,True,Financial markets,Canada,-1
+FRSPREAD.IC,diff4,0.0012926807823364298,True,Financial markets,Canada,-1
+FRSPREAD.IC,lvl,0.00013488371695475859,True,Financial markets,Canada,-1
+FRSPREAD.IC,rgap,0.00048490250511798704,True,Financial markets,Canada,-1
+FSTSX.IC,dlog,1.5889551375433497e-11,True,Financial markets,Canada,1
+FSTSX.IC,yoy,0.00044811479268573514,True,Financial markets,Canada,1
+FSTSX.IC,dlog2,0.0013633098583477692,True,Financial markets,Canada,1
+FSTSX.IC,acc,1.11978043789284e-05,True,Financial markets,Canada,1
+FSTSX.IC,gap,0.002979636973541248,True,Financial markets,Canada,1
+FVIXC.IC,dlog,3.890196114028702e-13,True,Financial markets,Canada,-1
+FVIXC.IC,yoy,0.0022842865983545117,True,Financial markets,Canada,-1
+FVIXC.IC,dlog2,0.005057624037912139,True,Financial markets,Canada,-1
+FVIXC.IC,acc,0.0668383838552714,False,Financial markets,Canada,-1
+FVIXC.IC,gap,0.02324216539529171,True,Financial markets,Canada,-1
+FM1.IC,dlog,2.0171814443985293e-07,True,Money & credit,Canada,1
+FM1.IC,yoy,0.003477510385389826,True,Money & credit,Canada,1
+FM1.IC,dlog2,0.00828424473694118,True,Money & credit,Canada,1
+FM1.IC,acc,0.14859384087058053,False,Money & credit,Canada,1
+FM1.IC,gap,0.002199580210073683,True,Money & credit,Canada,1
+FM1.IC,rdlog,8.523014632591396e-08,True,Money & credit,Canada,1
+FM1.IC,ryoy,0.009573549378460295,True,Money & credit,Canada,1
+FM2.IC,dlog,1.4254731979721417e-18,True,Money & credit,Canada,1
+FM2.IC,yoy,0.0032467843716992785,True,Money & credit,Canada,1
+FM2.IC,dlog2,0.0001375901429331072,True,Money & credit,Canada,1
+FM2.IC,acc,3.9628904623961556e-05,True,Money & credit,Canada,1
+FM2.IC,gap,0.056112999912451,False,Money & credit,Canada,1
+FM2.IC,rdlog,5.9345545248536775e-15,True,Money & credit,Canada,1
+FM2.IC,ryoy,0.020261058775712437,True,Money & credit,Canada,1
+FM2P.IC,dlog,5.773428137647861e-17,True,Money & credit,Canada,1
+FM2P.IC,yoy,0.043357392791375605,True,Money & credit,Canada,1
+FM2P.IC,dlog2,0.07013379529104835,False,Money & credit,Canada,1
+FM2P.IC,acc,0.1006388024946967,False,Money & credit,Canada,1
+FM2P.IC,gap,0.13216666804400184,False,Money & credit,Canada,1
+FM2P.IC,rdlog,2.1223459316930732e-18,True,Money & credit,Canada,1
+FM2P.IC,ryoy,0.0018988871881154585,True,Money & credit,Canada,1
+FCRHH.IC,dlog,2.7514127101689024e-09,True,Money & credit,Canada,1
+FCRHH.IC,yoy,0.10374295549954199,False,Money & credit,Canada,1
+FCRHH.IC,dlog2,0.007818353237781244,True,Money & credit,Canada,1
+FCRHH.IC,acc,1.896520226276723e-05,True,Money & credit,Canada,1
+FCRHH.IC,gap,0.004952567606821614,True,Money & credit,Canada,1
+FCRHH.IC,rdlog,1.2063523086474483e-05,True,Money & credit,Canada,1
+FCRHH.IC,ryoy,0.01028155417862934,True,Money & credit,Canada,1
+FCRMORT.IC,dlog,8.566558461944033e-06,True,Money & credit,Canada,1
+FCRMORT.IC,yoy,0.00912939440978907,True,Money & credit,Canada,1
+FCRMORT.IC,dlog2,0.046804342871480664,True,Money & credit,Canada,1
+FCRMORT.IC,acc,3.2949378223026196e-06,True,Money & credit,Canada,1
+FCRMORT.IC,gap,0.000960827641244681,True,Money & credit,Canada,1
+FCRMORT.IC,rdlog,2.7505731612000116e-09,True,Money & credit,Canada,1
+FCRMORT.IC,ryoy,0.048429521667374936,True,Money & credit,Canada,1
+FCRCONS.IC,dlog,7.972393586917371e-17,True,Money & credit,Canada,1
+FCRCONS.IC,yoy,0.0662839308310022,False,Money & credit,Canada,1
+FCRCONS.IC,dlog2,0.1746972525358137,False,Money & credit,Canada,1
+FCRCONS.IC,acc,0.010319738966602173,True,Money & credit,Canada,1
+FCRCONS.IC,gap,0.04154855217734245,True,Money & credit,Canada,1
+FCRCONS.IC,rdlog,2.0606324989171633e-17,True,Money & credit,Canada,1
+FCRCONS.IC,ryoy,0.06190110086039961,False,Money & credit,Canada,1
+FCRBUS.IC,dlog,4.858358922259962e-10,True,Money & credit,Canada,1
+FCRBUS.IC,yoy,0.008012190254629596,True,Money & credit,Canada,1
+FCRBUS.IC,dlog2,0.0001095592787039318,True,Money & credit,Canada,1
+FCRBUS.IC,acc,0.012128261312007688,True,Money & credit,Canada,1
+FCRBUS.IC,gap,1.6404821107892546e-05,True,Money & credit,Canada,1
+FCRBUS.IC,rdlog,1.2566694238452537e-08,True,Money & credit,Canada,1
+FCRBUS.IC,ryoy,0.00011323988486753526,True,Money & credit,Canada,1
+FCAPU.IC,diff,9.174699184740286e-12,True,Output,Canada,1
+FCAPU.IC,diff2,2.962756684473678e-07,True,Output,Canada,1
+FCAPU.IC,diff4,0.0015271735679345537,True,Output,Canada,1
+FCAPU.IC,lvl,0.00014251233398090694,True,Output,Canada,1
+FCAPU.IC,rgap,9.455394337023814e-05,True,Output,Canada,1
+FBKBUS.IC,dlog,1.0777329187822615e-10,True,Credit quality,Canada,-1
+FBKBUS.IC,yoy,0.021649260083859624,True,Credit quality,Canada,-1
+FBKBUS.IC,dlog2,6.722068993185845e-08,True,Credit quality,Canada,-1
+FBKBUS.IC,acc,0.009077142570693569,True,Credit quality,Canada,-1
+FBKBUS.IC,gap,0.0021003593376092903,True,Credit quality,Canada,-1
+FDELMORT.IC,diff,1.470281453352625e-23,True,Credit quality,Canada,-1
+FDELMORT.IC,diff2,6.454329135283733e-05,True,Credit quality,Canada,-1
+FDELMORT.IC,diff4,0.006527906391818205,True,Credit quality,Canada,-1
+FDELMORT.IC,lvl,0.002040358880600833,True,Credit quality,Canada,-1
+FDELMORT.IC,rgap,0.0013855542649360625,True,Credit quality,Canada,-1
+FDELCC.IC,diff,5.898801610651455e-10,True,Credit quality,Canada,-1
+FDELCC.IC,diff2,8.550932230697385e-08,True,Credit quality,Canada,-1
+FDELCC.IC,diff4,4.793828117052923e-05,True,Credit quality,Canada,-1
+FDELCC.IC,lvl,2.4280703365623148e-05,True,Credit quality,Canada,-1
+FDELCC.IC,rgap,1.8630822948156374e-05,True,Credit quality,Canada,-1
+FHSEXIST.IC,dlog,1.7830343019835506e-13,True,Housing,Canada,1
+FHSEXIST.IC,yoy,0.001215205014821081,True,Housing,Canada,1
+FHSEXIST.IC,dlog2,0.0003672768062596475,True,Housing,Canada,1
+FHSEXIST.IC,acc,4.003129676354283e-05,True,Housing,Canada,1
+FHSEXIST.IC,gap,0.0006071214965427188,True,Housing,Canada,1
+FHSLR.IC,diff,5.468484055550256e-07,True,Housing,Canada,1
+FHSLR.IC,diff2,5.6696430183579944e-08,True,Housing,Canada,1
+FHSLR.IC,diff4,0.00020585271528070312,True,Housing,Canada,1
+FHSLR.IC,lvl,0.034785923977734536,True,Housing,Canada,1
+FHSLR.IC,rgap,0.010286526538633387,True,Housing,Canada,1
+FBPRES.IC,dlog,0.0009925964488211448,True,Housing,Canada,1
+FBPRES.IC,yoy,0.294867209174544,False,Housing,Canada,1
+FBPRES.IC,dlog2,0.03645495957286337,True,Housing,Canada,1
+FBPRES.IC,acc,0.031538418329610685,True,Housing,Canada,1
+FBPRES.IC,gap,0.007629711898972086,True,Housing,Canada,1
+FBPNRES.IC,dlog,5.843032360857056e-09,True,Investment,Canada,1
+FBPNRES.IC,yoy,0.003038758491278159,True,Investment,Canada,1
+FBPNRES.IC,dlog2,2.137258373724348e-06,True,Investment,Canada,1
+FBPNRES.IC,acc,0.013539250728087602,True,Investment,Canada,1
+FBPNRES.IC,gap,0.000333362213252572,True,Investment,Canada,1
+FAUTO.IC,dlog,9.337907132054578e-10,True,Consumption,Canada,1
+FAUTO.IC,yoy,0.24396342660827508,False,Consumption,Canada,1
+FAUTO.IC,dlog2,2.024999171053805e-05,True,Consumption,Canada,1
+FAUTO.IC,acc,0.08766391559805531,False,Consumption,Canada,1
+FAUTO.IC,gap,0.005133735305609105,True,Consumption,Canada,1
+FAUTO.IC,rdlog,1.424445134655151e-09,True,Consumption,Canada,1
+FAUTO.IC,ryoy,0.3018821634721794,False,Consumption,Canada,1
+FCONF.IC,dlog,7.038088320039267e-16,True,Sentiment,Canada,1
+FCONF.IC,yoy,0.002513492128770107,True,Sentiment,Canada,1
+FCONF.IC,dlog2,0.002372944944444684,True,Sentiment,Canada,1
+FCONF.IC,acc,1.2633375780510137e-05,True,Sentiment,Canada,1
+FCONF.IC,gap,0.06091546207803005,False,Sentiment,Canada,1
+FBOS.IC,diff,3.497750507298072e-11,True,Sentiment,Canada,1
+FBOS.IC,diff2,1.8800692712504193e-13,True,Sentiment,Canada,1
+FBOS.IC,diff4,0.0006809802962570945,True,Sentiment,Canada,1
+FBOS.IC,lvl,2.7485601460399914e-07,True,Sentiment,Canada,1
+FBOS.IC,rgap,1.1572673581538524e-06,True,Sentiment,Canada,1
+FPOPIMM.IC,dlog,9.561385203299829e-06,True,Demographics,Canada,1
+FPOPIMM.IC,yoy,0.007349367001887703,True,Demographics,Canada,1
+FPOPIMM.IC,dlog2,0.0041503862981474016,True,Demographics,Canada,1
+FPOPIMM.IC,acc,0.019778101867923156,True,Demographics,Canada,1
+FPOPIMM.IC,gap,0.026311595375898972,True,Demographics,Canada,1
+FWAGE.IC,dlog,2.841132735353555e-15,True,Income,Canada,1
+FWAGE.IC,yoy,0.05180553203480653,False,Income,Canada,1
+FWAGE.IC,dlog2,0.007205027420456901,True,Income,Canada,1
+FWAGE.IC,acc,0.05575253688071956,False,Income,Canada,1
+FWAGE.IC,gap,0.013914855054510206,True,Income,Canada,1
+FWAGE.IC,rdlog,1.4631755594272021e-16,True,Income,Canada,1
+FWAGE.IC,ryoy,0.11883062258105409,False,Income,Canada,1
+FHSEXIST.ION,dlog,2.9455519599514056e-19,True,Housing,Ontario,1
+FHSEXIST.ION,yoy,0.008342105562349239,True,Housing,Ontario,1
+FHSEXIST.ION,dlog2,9.646441340704827e-08,True,Housing,Ontario,1
+FHSEXIST.ION,acc,3.3317402220668582e-06,True,Housing,Ontario,1
+FHSEXIST.ION,gap,0.039898909919594265,True,Housing,Ontario,1
+FHPICONDO.ITOR,dlog,4.267576102647271e-06,True,Housing,Ontario,1
+FHPICONDO.ITOR,yoy,0.0005406759968229256,True,Housing,Ontario,1
+FHPICONDO.ITOR,dlog2,3.0540524661203855e-05,True,Housing,Ontario,1
+FHPICONDO.ITOR,acc,2.44707118000552e-05,True,Housing,Ontario,1
+FHPICONDO.ITOR,gap,0.0001491935972468382,True,Housing,Ontario,1
+FHPISFD.ITOR,dlog,2.0613858832515493e-06,True,Housing,Ontario,1
+FHPISFD.ITOR,yoy,0.0026725167331650103,True,Housing,Ontario,1
+FHPISFD.ITOR,dlog2,0.0008790455905653641,True,Housing,Ontario,1
+FHPISFD.ITOR,acc,2.899832985527253e-05,True,Housing,Ontario,1
+FHPISFD.ITOR,gap,0.0022166119185160833,True,Housing,Ontario,1
+FBPRES.ION,dlog,1.7979188512656938e-17,True,Housing,Ontario,1
+FBPRES.ION,yoy,0.3786147845806123,False,Housing,Ontario,1
+FBPRES.ION,dlog2,0.0011681579659563166,True,Housing,Ontario,1
+FBPRES.ION,acc,0.011087779456209009,True,Housing,Ontario,1
+FBPRES.ION,gap,0.10706326598168386,False,Housing,Ontario,1
+FWAGE.ION,dlog,2.0981907449735434e-17,True,Income,Ontario,1
+FWAGE.ION,yoy,0.07223133328512057,False,Income,Ontario,1
+FWAGE.ION,dlog2,0.03752801031186807,True,Income,Ontario,1
+FWAGE.ION,acc,0.0006026530662624007,True,Income,Ontario,1
+FWAGE.ION,gap,0.08339507189136364,False,Income,Ontario,1
+FWAGE.ION,rdlog,1.235563248088266e-17,True,Income,Ontario,1
+FWAGE.ION,ryoy,0.038485449434872275,True,Income,Ontario,1
+FMFGSHIP.ION,dlog,4.296917431008509e-15,True,Output,Ontario,1
+FMFGSHIP.ION,yoy,0.08800734595145737,False,Output,Ontario,1
+FMFGSHIP.ION,dlog2,0.0010245890568560457,True,Output,Ontario,1
+FMFGSHIP.ION,acc,0.02271631981223708,True,Output,Ontario,1
+FMFGSHIP.ION,gap,0.0005827954702851102,True,Output,Ontario,1
+FAUTOPROD.ION,dlog,6.613140327349321e-17,True,Output,Ontario,1
+FAUTOPROD.ION,yoy,0.25408215315517746,False,Output,Ontario,1
+FAUTOPROD.ION,dlog2,7.492786265627836e-05,True,Output,Ontario,1
+FAUTOPROD.ION,acc,0.06686017983674016,False,Output,Ontario,1
+FAUTOPROD.ION,gap,0.12003185168084596,False,Output,Ontario,1
+FEXP.ION,dlog,1.8494472774369084e-12,True,Trade,Ontario,1
+FEXP.ION,yoy,0.013531800717935584,True,Trade,Ontario,1
+FEXP.ION,dlog2,0.07820751237752901,False,Trade,Ontario,1
+FEXP.ION,acc,0.010147974558335479,True,Trade,Ontario,1
+FEXP.ION,gap,6.950913161391181e-06,True,Trade,Ontario,1
+FCONF.ION,dlog,3.058797902070142e-20,True,Sentiment,Ontario,1
+FCONF.ION,yoy,0.07175987453453349,False,Sentiment,Ontario,1
+FCONF.ION,dlog2,0.4964185159162943,False,Sentiment,Ontario,1
+FCONF.ION,acc,0.006010164559131848,True,Sentiment,Ontario,1
+FCONF.ION,gap,0.00767563086379937,True,Sentiment,Ontario,1
+FPOPIMM.ION,dlog,3.5448639146895606e-07,True,Demographics,Ontario,1
+FPOPIMM.ION,yoy,8.604804971397995e-05,True,Demographics,Ontario,1
+FPOPIMM.ION,dlog2,0.0013103907387687149,True,Demographics,Ontario,1
+FPOPIMM.ION,acc,4.73325330165998e-05,True,Demographics,Ontario,1
+FPOPIMM.ION,gap,0.00016109963135556014,True,Demographics,Ontario,1
+FPOP2544.ION,dlog,0.0002736931740103393,True,Demographics,Ontario,1
+FPOP2544.ION,yoy,0.018216349898411605,True,Demographics,Ontario,1
+FPOP2544.ION,dlog2,0.0029378624871567414,True,Demographics,Ontario,1
+FPOP2544.ION,acc,0.004409820329998808,True,Demographics,Ontario,1
+FPOP2544.ION,gap,2.5362810363966027e-05,True,Demographics,Ontario,1
+FHHFORM.ION,dlog,2.1520199802886067e-09,True,Demographics,Ontario,1
+FHHFORM.ION,yoy,0.0056290557016447605,True,Demographics,Ontario,1
+FHHFORM.ION,dlog2,0.0045436786053961575,True,Demographics,Ontario,1
+FHHFORM.ION,acc,1.1396610360572623e-05,True,Demographics,Ontario,1
+FHHFORM.ION,gap,1.961044190450594e-05,True,Demographics,Ontario,1
+FLBRPART.ION,diff,1.0050402296580026e-10,True,Labour,Ontario,1
+FLBRPART.ION,diff2,0.0003801609187273513,True,Labour,Ontario,1
+FLBRPART.ION,diff4,0.00933332887650258,True,Labour,Ontario,1
+FLBRPART.ION,lvl,6.502121210482973e-05,True,Labour,Ontario,1
+FLBRPART.ION,rgap,9.397559326116291e-05,True,Labour,Ontario,1
+FLBRYOUTH.ION,diff,2.639229080225437e-12,True,Labour,Ontario,-1
+FLBRYOUTH.ION,diff2,1.6710939442286392e-06,True,Labour,Ontario,-1
+FLBRYOUTH.ION,diff4,0.17357347608384166,False,Labour,Ontario,-1
+FLBRYOUTH.ION,lvl,0.0009826802027554807,True,Labour,Ontario,-1
+FLBRYOUTH.ION,rgap,2.47854577353822e-06,True,Labour,Ontario,-1
+FEFT.ION,dlog,1.942428356690995e-16,True,Labour,Ontario,1
+FEFT.ION,yoy,0.018604674284066074,True,Labour,Ontario,1
+FEFT.ION,dlog2,0.0015132821213938163,True,Labour,Ontario,1
+FEFT.ION,acc,0.1274122728197295,False,Labour,Ontario,1
+FEFT.ION,gap,0.0038822102176956845,True,Labour,Ontario,1
+FHOURS.ION,dlog,2.611059657674144e-13,True,Labour,Ontario,1
+FHOURS.ION,yoy,0.0004832262464202937,True,Labour,Ontario,1
+FHOURS.ION,dlog2,3.432084928084808e-18,True,Labour,Ontario,1
+FHOURS.ION,acc,0.009051667540953112,True,Labour,Ontario,1
+FHOURS.ION,gap,7.270686187961805e-05,True,Labour,Ontario,1
+XMORTSPRD.IC,diff,8.64373918361153e-21,True,Credit spreads,Canada,-1
+XMORTSPRD.IC,diff2,6.865722989272337e-07,True,Credit spreads,Canada,-1
+XMORTSPRD.IC,diff4,0.004855277658070328,True,Credit spreads,Canada,-1
+XMORTSPRD.IC,lvl,0.011022116190272265,True,Credit spreads,Canada,-1
+XMORTSPRD.IC,rgap,4.635526430521337e-05,True,Credit spreads,Canada,-1
+XRMORTREAL.IC,diff,0.00028980652252103706,True,Interest rates,Canada,-1
+XRMORTREAL.IC,diff2,0.0029734063786913626,True,Interest rates,Canada,-1
+XRMORTREAL.IC,diff4,0.0029750412089507338,True,Interest rates,Canada,-1
+XRMORTREAL.IC,lvl,0.44773345103396905,False,Interest rates,Canada,-1
+XRMORTREAL.IC,rgap,0.040439839156332494,True,Interest rates,Canada,-1

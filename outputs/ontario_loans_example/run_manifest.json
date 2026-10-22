@@ -1,0 +1,109 @@
+{
+  "time": "2026-10-22T19:36:31",
+  "steps": {
+    "data": {
+      "key": "6e1031053d4650850165de2d5e217775975263bcedc16f29f7e2614919382f27",
+      "status": "computed",
+      "seconds": 0.0,
+      "components": {
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "balance": "d03965fb196410bca13d3fec8c172cee085203f8527623ca3bd40a4b5f659cd6",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "macro_history": "85cdc99db7b73d660af3adf1ce66156be6249fbd5a6dcf0b03efb57723589567",
+        "scenarios": "bcce2be11cca82c20eb95750a611ac25576e37f37d38f0d5b01e26ff3604c6f8"
+      },
+      "vs_previous_run": "new step"
+    },
+    "features": {
+      "key": "0e898be00f788e034134b1dd97586a8e47eb07c129db54f73958b2601db28daf",
+      "status": "computed",
+      "seconds": 4.12,
+      "components": {
+        "macro_history": "85cdc99db7b73d660af3adf1ce66156be6249fbd5a6dcf0b03efb57723589567",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "config.features": "f4b0db90f20b2241ecb5fa249d3676dbff7074cd115745059a007b5137e68c34",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "code": "1effa969d20be416f5da374e77d9a6c590aafdfb3d507b9f0f9acb09fa42c265"
+      },
+      "vs_previous_run": "new step"
+    },
+    "screen_first": {
+      "key": "3688e084778ec00dc1d2915a78512bb934be7ad43f49c64e6cbec4fe882343a3",
+      "status": "computed",
+      "seconds": 6.08,
+      "components": {
+        "features": "0e898be00f788e034134b1dd97586a8e47eb07c129db54f73958b2601db28daf",
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "config.screen_first": "cafd17ae26f19a1b6f94ac5bfbfbbd075507532d2ef384aacf7858cb9b1ec5f7",
+        "config.final_model": "02c148d81faf885226dab1aa8b48b4439b4669ff25d10ad11188807c47709693",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "code": "8f94f3c4054274145ce7f9bd2480a5a9132d73af935fd0a2d9660ae00f5757f1"
+      },
+      "vs_previous_run": "new step"
+    },
+    "en_first": {
+      "key": "5a0c3e5ecba84d4e69c436f602c1a501f81b224f8657cbc82ccda7b9da1d8f48",
+      "status": "computed",
+      "seconds": 8.31,
+      "components": {
+        "features": "0e898be00f788e034134b1dd97586a8e47eb07c129db54f73958b2601db28daf",
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "config.en_first": "c478431c2b5dc3717e0a003cc450875e19143364b72fab56cff40fa681a1fd0f",
+        "config.final_model": "02c148d81faf885226dab1aa8b48b4439b4669ff25d10ad11188807c47709693",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "code": "9fbc0f596144b4fa48e1101c3aa235fc1fe68e6bdf7d64b420c1c2c77f2b82c7"
+      },
+      "vs_previous_run": "new step"
+    },
+    "evaluate:AR(1) benchmark": {
+      "key": "d0d4bf3977ad721c56ae0bd568030add25f918030ddc1ad70d3077b1f057c711",
+      "status": "computed",
+      "seconds": 0.39,
+      "components": {
+        "drivers": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "balance": "d03965fb196410bca13d3fec8c172cee085203f8527623ca3bd40a4b5f659cd6",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "scenarios": "bcce2be11cca82c20eb95750a611ac25576e37f37d38f0d5b01e26ff3604c6f8",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "config.deflator": "2c6d4cf247970e87b85b76c9ad0c177cbfb2c225d001807bb62bc9ff73f83873",
+        "code": "9234c0a0f71464d27109c7fe955977b8ec2be8d010d44d60109a7fd2c358ba7d"
+      },
+      "vs_previous_run": "new step"
+    },
+    "evaluate:Screen first": {
+      "key": "545b306e9e49893f3e5c0a35effeb67a5e9b247c089f31d57ed52ec8145e2b79",
+      "status": "computed",
+      "seconds": 0.37,
+      "components": {
+        "drivers": "f16abe85a3d67557741ae792c37ff651ba02b034e7af90cb5ef66e870fbbb616",
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "balance": "d03965fb196410bca13d3fec8c172cee085203f8527623ca3bd40a4b5f659cd6",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "scenarios": "bcce2be11cca82c20eb95750a611ac25576e37f37d38f0d5b01e26ff3604c6f8",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "config.deflator": "2c6d4cf247970e87b85b76c9ad0c177cbfb2c225d001807bb62bc9ff73f83873",
+        "code": "9234c0a0f71464d27109c7fe955977b8ec2be8d010d44d60109a7fd2c358ba7d"
+      },
+      "vs_previous_run": "new step"
+    },
+    "evaluate:Elastic Net first": {
+      "key": "3a0fbc834fd42f0ea0840a21cf74777acf1f1a1670e2e4eb7ea3c3b1087dcdd1",
+      "status": "computed",
+      "seconds": 0.39,
+      "components": {
+        "drivers": "2252dd45b90cbafeb3ef468d65b9a553505ff660ee1319bd842cb283192f80b0",
+        "target": "679375fb10fc127a6c42d9505cdd588d2638d63f03b59f0feb4cb4f477be3bd4",
+        "balance": "d03965fb196410bca13d3fec8c172cee085203f8527623ca3bd40a4b5f659cd6",
+        "metadata": "c17d486065a055c77ce2864be65d54990469bfde89032071debe491891216e97",
+        "scenarios": "bcce2be11cca82c20eb95750a611ac25576e37f37d38f0d5b01e26ff3604c6f8",
+        "config.sample": "50e29282db5ec7e90b4e9a984f20c0c83f2658c3f92eefe090266ccb8549f79c",
+        "config.deflator": "2c6d4cf247970e87b85b76c9ad0c177cbfb2c225d001807bb62bc9ff73f83873",
+        "code": "9234c0a0f71464d27109c7fe955977b8ec2be8d010d44d60109a7fd2c358ba7d"
+      },
+      "vs_previous_run": "new step"
+    }
+  }
+}

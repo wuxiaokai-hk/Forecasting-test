@@ -1,0 +1,28 @@
+model,horizon_q,MAPE_all_pct,MAPE_exCOVID_pct,bias_exCOVID_pct
+AR(1) benchmark,1,0.4058,0.3439,-0.0749
+AR(1) benchmark,2,0.7539,0.6596,-0.1424
+AR(1) benchmark,3,1.1009,0.9761,-0.1879
+AR(1) benchmark,4,1.405,1.2995,-0.2422
+AR(1) benchmark,5,1.6628,1.5697,-0.311
+AR(1) benchmark,6,1.917,1.8229,-0.3884
+AR(1) benchmark,7,2.1558,2.0512,-0.4999
+AR(1) benchmark,8,2.3435,2.2803,-0.6258
+AR(1) benchmark,9,2.5259,2.5035,-0.8384
+Screen first,1,0.2356,0.2334,-0.0597
+Screen first,2,0.3625,0.3624,-0.1318
+Screen first,3,0.4177,0.4291,-0.2014
+Screen first,4,0.4676,0.4994,-0.2887
+Screen first,5,0.529,0.5777,-0.3945
+Screen first,6,0.6036,0.6775,-0.5044
+Screen first,7,0.6806,0.7906,-0.6349
+Screen first,8,0.7735,0.899,-0.7501
+Screen first,9,0.8776,1.039,-0.8927
+Elastic Net first,1,0.2308,0.2265,-0.0738
+Elastic Net first,2,0.3829,0.3865,-0.1607
+Elastic Net first,3,0.4728,0.4996,-0.2493
+Elastic Net first,4,0.5653,0.6159,-0.3505
+Elastic Net first,5,0.6498,0.7272,-0.4736
+Elastic Net first,6,0.7047,0.8042,-0.6048
+Elastic Net first,7,0.7902,0.9261,-0.7604
+Elastic Net first,8,0.9,1.0686,-0.8979
+Elastic Net first,9,1.0216,1.2289,-1.0613

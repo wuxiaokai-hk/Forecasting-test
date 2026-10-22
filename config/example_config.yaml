@@ -1,0 +1,122 @@
+# =============================================================================
+# Loan forecasting model - run configuration
+# -----------------------------------------------------------------------------
+# To run on a different portfolio or differently named files: copy this file,
+# change the file names / column names / settings below, and run
+#     python run_pipeline.py --config config/<your_file>.yaml
+# Relative paths are relative to the project folder (where run_pipeline.py is).
+# Files can be .csv or .xlsx (give `sheet:` for Excel).
+# =============================================================================
+
+run_name: ontario_loans_example     # outputs go to <output_dir>/<run_name>/
+output_dir: outputs
+
+data:
+  bank:                             # internal balances
+    file: data/bank_data.csv
+    sheet: null                     # Excel sheet name, or null
+    date_column: date               # quarter labels (2020Q1) or dates (2020-03-31)
+    target_column: loan_balance     # the balance to forecast
+    frequency: Q                    # Q, or M for monthly data (quarter-end value is used)
+
+  events:                           # optional: inorganic events removed from the target
+    file: data/bank_events.csv      # set to null if you have none
+    sheet: null
+    date_column: date
+    series_column: series           # rows whose series = target_column are used
+    amount_column: amount           # size of the jump, same units as the balance
+
+  macro:                            # one file per scenario: history + scenario path
+    date_column: date
+    sheet: null
+    scenarios:
+      Baseline: data/moodys_baseline.csv
+      S1 Upside: data/moodys_s1_upside.csv
+      S3 Downside: data/moodys_s3_downside.csv
+      S4 Severe: data/moodys_s4_severe.csv
+    base_scenario: Baseline         # the scenario whose history is used for estimation
+
+  metadata:                         # one row per macro variable
+    file: data/macro_metadata.csv
+    sheet: null
+    columns:                        # map YOUR column names to the names the code uses
+      mnemonic: mnemonic
+      description: description
+      geography: geography
+      theme: theme
+      transform: transform          # dlog for levels/indexes, diff for rates
+      expected_sign: expected_sign  # +1, -1 or 0 (no prior)
+
+  # Optional variables built from the macro files (pandas expression; wrap names with dots in backticks)
+  constructed:
+    - name: XMORTSPRD.IC
+      expression: "`FRMORT5Y.IC` - `FRGOV5Y.IC`"
+      description: Mortgage spread, 5Y mortgage rate minus 5Y GoC yield (pp)
+      geography: Canada
+      theme: Credit spreads
+      transform: diff
+      expected_sign: -1
+    - name: XRMORTREAL.IC
+      expression: "`FRMORT5Y.IC` - 100 * (log(`FCPI.ION`) - log(`FCPI.ION`.shift(4)))"
+      description: Real 5-year mortgage rate (mortgage rate minus Ontario CPI inflation)
+      geography: Canada
+      theme: Interest rates
+      transform: diff
+      expected_sign: -1
+
+sample:
+  hist_end: 2025Q4                  # last quarter of actual loan data
+  estimation_start: 2002Q2          # first quarter used in regressions (leave room for lags)
+  backtest_start: 2010Q4            # first forecast origin in the rolling backtest
+  horizon: 9                        # quarters ahead in the backtest
+  dummy_quarters: [2020Q1, 2020Q2, 2020Q3, 2020Q4, 2021Q1, 2021Q2]   # one dummy each; also excluded from error metrics
+
+features:                           # shared by both approaches
+  max_lag: 4
+  adf_p: 0.05                       # a transformed series must be stationary
+  transforms_level: [dlog, yoy, dlog2, acc, gap]
+  transforms_rate: [diff, diff2, diff4, lvl, rgap]
+  real_themes: [Income, Consumption, Money & credit]   # also tried deflated by CPI
+  deflator: FCPI.ION                # null to switch real transforms off
+  allowed_geographies: [Ontario, Canada]   # [] keeps all
+  excluded_themes: [Other, Output (by industry), Labour (by industry)]
+  require_sign_prior: true          # variables with expected_sign 0 cannot be selected
+
+approaches: [screen_first, en_first]   # run one or both
+
+cache:                              # skip steps whose inputs, settings and code have not changed
+  enabled: true
+  dir: cache                        # shared by all configs; delete the folder to clear it
+
+screen_first:                       # univariate screen -> clusters -> search
+  screen_p: 0.05
+  cluster_corr: 0.75
+  primary_geography: Ontario        # preferred cluster representative if nearly as strong
+  rep_tolerance: 0.75
+  shortlist_max: 25
+
+en_first:                           # Elastic Net -> group correlated picks -> search
+  l1_ratio: 0.5                     # glmnet alpha (1 = lasso, 0 = ridge)
+  target_n: 10                      # lambda is set so this many features are selected
+  unpenalized_controls: true        # lagged loan growth and dummies are not shrunk
+  sign_constraints: true            # coefficients forced to the expected sign
+  stability:                        # repeat on subsamples; keep features chosen often
+    enabled: true
+    n_subsamples: 100
+    fraction: 0.75                  # share of quarters in each subsample
+    block_length: 8                 # consecutive-quarter blocks
+    threshold: 0.6                  # minimum selection frequency
+    seed: 42
+  group_corr: 0.75                  # selected features above this |correlation| are grouped
+  primary_geography: Ontario
+  rep_tolerance: 0.75
+
+final_model:                        # shared final step for both approaches
+  min_vars: 1
+  max_vars: 3                       # audience wants fewer than 4 drivers
+  t_min: 1.96
+  vif_max: 5
+  one_per_theme: true
+  required_themes: []               # e.g. [Interest rates] to force a rate driver
+  n_oos_candidates: 300
+  selection_tolerance: 0.05         # simplest model within 5% of the best error wins

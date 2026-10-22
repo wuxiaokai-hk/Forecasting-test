@@ -1,0 +1,7 @@
+feature,selection_frequency,score,mnemonic,theme,geography,expected_sign,description,cluster,is_representative,cluster_size
+FHPI.ISTC|dlog|L1,0.95,0.95,FHPI.ISTC,Housing,Ontario - St. Catharines-Niagara,1,"House price index, St. Catharines-Niagara CMA (2005=100)",1,False,5
+FHPI.ION|dlog|L1,0.95,0.95,FHPI.ION,Housing,Ontario,1,"House price index, Ontario (2005=100)",1,True,5
+FHPI.IOTT|dlog|L1,0.82,0.82,FHPI.IOTT,Housing,Ontario - Ottawa-Gatineau,1,"House price index, Ottawa-Gatineau CMA (2005=100)",1,False,5
+FHPI.IBAR|dlog|L1,0.81,0.81,FHPI.IBAR,Housing,Ontario - Barrie,1,"House price index, Barrie CMA (2005=100)",1,False,5
+FHPI.IGUE|dlog|L1,0.8,0.8,FHPI.IGUE,Housing,Ontario - Guelph,1,"House price index, Guelph CMA (2005=100)",1,False,5
+FYPD.ION|dlog|L1,0.79,0.79,FYPD.ION,Income,Ontario,1,"Personal disposable income, Ontario (C$)",2,True,1

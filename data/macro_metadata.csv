@@ -1,0 +1,401 @@
+mnemonic,description,geography,theme,transform,expected_sign
+FGDPR.ION,"Real GDP, Ontario (C$ 2017, SAAR)",Ontario,Output,dlog,1
+FGDP$.ION,"Nominal GDP, Ontario (C$, SAAR)",Ontario,Output,dlog,1
+FET.ION,"Total employment, Ontario (Ths.)",Ontario,Labour,dlog,1
+FLBR.ION,"Unemployment rate, Ontario (%)",Ontario,Labour,diff,-1
+FLF.ION,"Labour force, Ontario (Ths.)",Ontario,Labour,dlog,1
+FPOPT.ION,"Total population, Ontario (Ths.)",Ontario,Demographics,dlog,1
+FYPD.ION,"Personal disposable income, Ontario (C$)",Ontario,Income,dlog,1
+FRS.ION,"Retail sales, Ontario (C$)",Ontario,Consumption,dlog,1
+FHST.ION,"Housing starts, Ontario (Ths., SAAR)",Ontario,Housing,dlog,1
+FHPI.ION,"House price index, Ontario (2005=100)",Ontario,Housing,dlog,1
+FCPI.ION,"Consumer price index, Ontario (2002=100)",Ontario,Prices,dlog,0
+FAWE.ION,"Average weekly earnings, Ontario (C$)",Ontario,Income,dlog,1
+FBKCPT.ION,"Consumer insolvencies, Ontario (#)",Ontario,Credit quality,dlog,-1
+FGDPR.IQC,"Real GDP, Quebec (C$ 2017, SAAR)",Quebec,Output,dlog,1
+FGDP$.IQC,"Nominal GDP, Quebec (C$, SAAR)",Quebec,Output,dlog,1
+FET.IQC,"Total employment, Quebec (Ths.)",Quebec,Labour,dlog,1
+FLBR.IQC,"Unemployment rate, Quebec (%)",Quebec,Labour,diff,-1
+FLF.IQC,"Labour force, Quebec (Ths.)",Quebec,Labour,dlog,1
+FPOPT.IQC,"Total population, Quebec (Ths.)",Quebec,Demographics,dlog,1
+FYPD.IQC,"Personal disposable income, Quebec (C$)",Quebec,Income,dlog,1
+FRS.IQC,"Retail sales, Quebec (C$)",Quebec,Consumption,dlog,1
+FHST.IQC,"Housing starts, Quebec (Ths., SAAR)",Quebec,Housing,dlog,1
+FHPI.IQC,"House price index, Quebec (2005=100)",Quebec,Housing,dlog,1
+FCPI.IQC,"Consumer price index, Quebec (2002=100)",Quebec,Prices,dlog,0
+FAWE.IQC,"Average weekly earnings, Quebec (C$)",Quebec,Income,dlog,1
+FBKCPT.IQC,"Consumer insolvencies, Quebec (#)",Quebec,Credit quality,dlog,-1
+FGDPR.IBC,"Real GDP, British Columbia (C$ 2017, SAAR)",British Columbia,Output,dlog,1
+FGDP$.IBC,"Nominal GDP, British Columbia (C$, SAAR)",British Columbia,Output,dlog,1
+FET.IBC,"Total employment, British Columbia (Ths.)",British Columbia,Labour,dlog,1
+FLBR.IBC,"Unemployment rate, British Columbia (%)",British Columbia,Labour,diff,-1
+FLF.IBC,"Labour force, British Columbia (Ths.)",British Columbia,Labour,dlog,1
+FPOPT.IBC,"Total population, British Columbia (Ths.)",British Columbia,Demographics,dlog,1
+FYPD.IBC,"Personal disposable income, British Columbia (C$)",British Columbia,Income,dlog,1
+FRS.IBC,"Retail sales, British Columbia (C$)",British Columbia,Consumption,dlog,1
+FHST.IBC,"Housing starts, British Columbia (Ths., SAAR)",British Columbia,Housing,dlog,1
+FHPI.IBC,"House price index, British Columbia (2005=100)",British Columbia,Housing,dlog,1
+FCPI.IBC,"Consumer price index, British Columbia (2002=100)",British Columbia,Prices,dlog,0
+FAWE.IBC,"Average weekly earnings, British Columbia (C$)",British Columbia,Income,dlog,1
+FBKCPT.IBC,"Consumer insolvencies, British Columbia (#)",British Columbia,Credit quality,dlog,-1
+FGDPR.IAB,"Real GDP, Alberta (C$ 2017, SAAR)",Alberta,Output,dlog,1
+FGDP$.IAB,"Nominal GDP, Alberta (C$, SAAR)",Alberta,Output,dlog,1
+FET.IAB,"Total employment, Alberta (Ths.)",Alberta,Labour,dlog,1
+FLBR.IAB,"Unemployment rate, Alberta (%)",Alberta,Labour,diff,-1
+FLF.IAB,"Labour force, Alberta (Ths.)",Alberta,Labour,dlog,1
+FPOPT.IAB,"Total population, Alberta (Ths.)",Alberta,Demographics,dlog,1
+FYPD.IAB,"Personal disposable income, Alberta (C$)",Alberta,Income,dlog,1
+FRS.IAB,"Retail sales, Alberta (C$)",Alberta,Consumption,dlog,1
+FHST.IAB,"Housing starts, Alberta (Ths., SAAR)",Alberta,Housing,dlog,1
+FHPI.IAB,"House price index, Alberta (2005=100)",Alberta,Housing,dlog,1
+FCPI.IAB,"Consumer price index, Alberta (2002=100)",Alberta,Prices,dlog,0
+FAWE.IAB,"Average weekly earnings, Alberta (C$)",Alberta,Income,dlog,1
+FBKCPT.IAB,"Consumer insolvencies, Alberta (#)",Alberta,Credit quality,dlog,-1
+FGDPR.IMB,"Real GDP, Manitoba (C$ 2017, SAAR)",Manitoba,Output,dlog,1
+FGDP$.IMB,"Nominal GDP, Manitoba (C$, SAAR)",Manitoba,Output,dlog,1
+FET.IMB,"Total employment, Manitoba (Ths.)",Manitoba,Labour,dlog,1
+FLBR.IMB,"Unemployment rate, Manitoba (%)",Manitoba,Labour,diff,-1
+FLF.IMB,"Labour force, Manitoba (Ths.)",Manitoba,Labour,dlog,1
+FPOPT.IMB,"Total population, Manitoba (Ths.)",Manitoba,Demographics,dlog,1
+FYPD.IMB,"Personal disposable income, Manitoba (C$)",Manitoba,Income,dlog,1
+FRS.IMB,"Retail sales, Manitoba (C$)",Manitoba,Consumption,dlog,1
+FHST.IMB,"Housing starts, Manitoba (Ths., SAAR)",Manitoba,Housing,dlog,1
+FHPI.IMB,"House price index, Manitoba (2005=100)",Manitoba,Housing,dlog,1
+FCPI.IMB,"Consumer price index, Manitoba (2002=100)",Manitoba,Prices,dlog,0
+FAWE.IMB,"Average weekly earnings, Manitoba (C$)",Manitoba,Income,dlog,1
+FBKCPT.IMB,"Consumer insolvencies, Manitoba (#)",Manitoba,Credit quality,dlog,-1
+FGDPR.ISK,"Real GDP, Saskatchewan (C$ 2017, SAAR)",Saskatchewan,Output,dlog,1
+FGDP$.ISK,"Nominal GDP, Saskatchewan (C$, SAAR)",Saskatchewan,Output,dlog,1
+FET.ISK,"Total employment, Saskatchewan (Ths.)",Saskatchewan,Labour,dlog,1
+FLBR.ISK,"Unemployment rate, Saskatchewan (%)",Saskatchewan,Labour,diff,-1
+FLF.ISK,"Labour force, Saskatchewan (Ths.)",Saskatchewan,Labour,dlog,1
+FPOPT.ISK,"Total population, Saskatchewan (Ths.)",Saskatchewan,Demographics,dlog,1
+FYPD.ISK,"Personal disposable income, Saskatchewan (C$)",Saskatchewan,Income,dlog,1
+FRS.ISK,"Retail sales, Saskatchewan (C$)",Saskatchewan,Consumption,dlog,1
+FHST.ISK,"Housing starts, Saskatchewan (Ths., SAAR)",Saskatchewan,Housing,dlog,1
+FHPI.ISK,"House price index, Saskatchewan (2005=100)",Saskatchewan,Housing,dlog,1
+FCPI.ISK,"Consumer price index, Saskatchewan (2002=100)",Saskatchewan,Prices,dlog,0
+FAWE.ISK,"Average weekly earnings, Saskatchewan (C$)",Saskatchewan,Income,dlog,1
+FBKCPT.ISK,"Consumer insolvencies, Saskatchewan (#)",Saskatchewan,Credit quality,dlog,-1
+FGDPR.INS,"Real GDP, Nova Scotia (C$ 2017, SAAR)",Nova Scotia,Output,dlog,1
+FGDP$.INS,"Nominal GDP, Nova Scotia (C$, SAAR)",Nova Scotia,Output,dlog,1
+FET.INS,"Total employment, Nova Scotia (Ths.)",Nova Scotia,Labour,dlog,1
+FLBR.INS,"Unemployment rate, Nova Scotia (%)",Nova Scotia,Labour,diff,-1
+FLF.INS,"Labour force, Nova Scotia (Ths.)",Nova Scotia,Labour,dlog,1
+FPOPT.INS,"Total population, Nova Scotia (Ths.)",Nova Scotia,Demographics,dlog,1
+FYPD.INS,"Personal disposable income, Nova Scotia (C$)",Nova Scotia,Income,dlog,1
+FRS.INS,"Retail sales, Nova Scotia (C$)",Nova Scotia,Consumption,dlog,1
+FHST.INS,"Housing starts, Nova Scotia (Ths., SAAR)",Nova Scotia,Housing,dlog,1
+FHPI.INS,"House price index, Nova Scotia (2005=100)",Nova Scotia,Housing,dlog,1
+FCPI.INS,"Consumer price index, Nova Scotia (2002=100)",Nova Scotia,Prices,dlog,0
+FAWE.INS,"Average weekly earnings, Nova Scotia (C$)",Nova Scotia,Income,dlog,1
+FBKCPT.INS,"Consumer insolvencies, Nova Scotia (#)",Nova Scotia,Credit quality,dlog,-1
+FGDPR.INB,"Real GDP, New Brunswick (C$ 2017, SAAR)",New Brunswick,Output,dlog,1
+FGDP$.INB,"Nominal GDP, New Brunswick (C$, SAAR)",New Brunswick,Output,dlog,1
+FET.INB,"Total employment, New Brunswick (Ths.)",New Brunswick,Labour,dlog,1
+FLBR.INB,"Unemployment rate, New Brunswick (%)",New Brunswick,Labour,diff,-1
+FLF.INB,"Labour force, New Brunswick (Ths.)",New Brunswick,Labour,dlog,1
+FPOPT.INB,"Total population, New Brunswick (Ths.)",New Brunswick,Demographics,dlog,1
+FYPD.INB,"Personal disposable income, New Brunswick (C$)",New Brunswick,Income,dlog,1
+FRS.INB,"Retail sales, New Brunswick (C$)",New Brunswick,Consumption,dlog,1
+FHST.INB,"Housing starts, New Brunswick (Ths., SAAR)",New Brunswick,Housing,dlog,1
+FHPI.INB,"House price index, New Brunswick (2005=100)",New Brunswick,Housing,dlog,1
+FCPI.INB,"Consumer price index, New Brunswick (2002=100)",New Brunswick,Prices,dlog,0
+FAWE.INB,"Average weekly earnings, New Brunswick (C$)",New Brunswick,Income,dlog,1
+FBKCPT.INB,"Consumer insolvencies, New Brunswick (#)",New Brunswick,Credit quality,dlog,-1
+FGDPR.INL,"Real GDP, Newfoundland (C$ 2017, SAAR)",Newfoundland,Output,dlog,1
+FGDP$.INL,"Nominal GDP, Newfoundland (C$, SAAR)",Newfoundland,Output,dlog,1
+FET.INL,"Total employment, Newfoundland (Ths.)",Newfoundland,Labour,dlog,1
+FLBR.INL,"Unemployment rate, Newfoundland (%)",Newfoundland,Labour,diff,-1
+FLF.INL,"Labour force, Newfoundland (Ths.)",Newfoundland,Labour,dlog,1
+FPOPT.INL,"Total population, Newfoundland (Ths.)",Newfoundland,Demographics,dlog,1
+FYPD.INL,"Personal disposable income, Newfoundland (C$)",Newfoundland,Income,dlog,1
+FRS.INL,"Retail sales, Newfoundland (C$)",Newfoundland,Consumption,dlog,1
+FHST.INL,"Housing starts, Newfoundland (Ths., SAAR)",Newfoundland,Housing,dlog,1
+FHPI.INL,"House price index, Newfoundland (2005=100)",Newfoundland,Housing,dlog,1
+FCPI.INL,"Consumer price index, Newfoundland (2002=100)",Newfoundland,Prices,dlog,0
+FAWE.INL,"Average weekly earnings, Newfoundland (C$)",Newfoundland,Income,dlog,1
+FBKCPT.INL,"Consumer insolvencies, Newfoundland (#)",Newfoundland,Credit quality,dlog,-1
+FGDPR.IPE,"Real GDP, Prince Edward Island (C$ 2017, SAAR)",Prince Edward Island,Output,dlog,1
+FGDP$.IPE,"Nominal GDP, Prince Edward Island (C$, SAAR)",Prince Edward Island,Output,dlog,1
+FET.IPE,"Total employment, Prince Edward Island (Ths.)",Prince Edward Island,Labour,dlog,1
+FLBR.IPE,"Unemployment rate, Prince Edward Island (%)",Prince Edward Island,Labour,diff,-1
+FLF.IPE,"Labour force, Prince Edward Island (Ths.)",Prince Edward Island,Labour,dlog,1
+FPOPT.IPE,"Total population, Prince Edward Island (Ths.)",Prince Edward Island,Demographics,dlog,1
+FYPD.IPE,"Personal disposable income, Prince Edward Island (C$)",Prince Edward Island,Income,dlog,1
+FRS.IPE,"Retail sales, Prince Edward Island (C$)",Prince Edward Island,Consumption,dlog,1
+FHST.IPE,"Housing starts, Prince Edward Island (Ths., SAAR)",Prince Edward Island,Housing,dlog,1
+FHPI.IPE,"House price index, Prince Edward Island (2005=100)",Prince Edward Island,Housing,dlog,1
+FCPI.IPE,"Consumer price index, Prince Edward Island (2002=100)",Prince Edward Island,Prices,dlog,0
+FAWE.IPE,"Average weekly earnings, Prince Edward Island (C$)",Prince Edward Island,Income,dlog,1
+FBKCPT.IPE,"Consumer insolvencies, Prince Edward Island (#)",Prince Edward Island,Credit quality,dlog,-1
+FET.ITOR,"Total employment, Toronto CMA (Ths.)",Ontario - Toronto,Labour,dlog,1
+FLBR.ITOR,"Unemployment rate, Toronto CMA (%)",Ontario - Toronto,Labour,diff,-1
+FHPI.ITOR,"House price index, Toronto CMA (2005=100)",Ontario - Toronto,Housing,dlog,1
+FHST.ITOR,"Housing starts, Toronto CMA (#, SAAR)",Ontario - Toronto,Housing,dlog,1
+FPOPT.ITOR,"Population, Toronto CMA (Ths.)",Ontario - Toronto,Demographics,dlog,1
+FGDPR.ITOR,"Real GDP, Toronto CMA (C$ 2017)",Ontario - Toronto,Output,dlog,1
+FET.IOTT,"Total employment, Ottawa-Gatineau CMA (Ths.)",Ontario - Ottawa-Gatineau,Labour,dlog,1
+FLBR.IOTT,"Unemployment rate, Ottawa-Gatineau CMA (%)",Ontario - Ottawa-Gatineau,Labour,diff,-1
+FHPI.IOTT,"House price index, Ottawa-Gatineau CMA (2005=100)",Ontario - Ottawa-Gatineau,Housing,dlog,1
+FHST.IOTT,"Housing starts, Ottawa-Gatineau CMA (#, SAAR)",Ontario - Ottawa-Gatineau,Housing,dlog,1
+FPOPT.IOTT,"Population, Ottawa-Gatineau CMA (Ths.)",Ontario - Ottawa-Gatineau,Demographics,dlog,1
+FGDPR.IOTT,"Real GDP, Ottawa-Gatineau CMA (C$ 2017)",Ontario - Ottawa-Gatineau,Output,dlog,1
+FET.IHAM,"Total employment, Hamilton CMA (Ths.)",Ontario - Hamilton,Labour,dlog,1
+FLBR.IHAM,"Unemployment rate, Hamilton CMA (%)",Ontario - Hamilton,Labour,diff,-1
+FHPI.IHAM,"House price index, Hamilton CMA (2005=100)",Ontario - Hamilton,Housing,dlog,1
+FHST.IHAM,"Housing starts, Hamilton CMA (#, SAAR)",Ontario - Hamilton,Housing,dlog,1
+FPOPT.IHAM,"Population, Hamilton CMA (Ths.)",Ontario - Hamilton,Demographics,dlog,1
+FGDPR.IHAM,"Real GDP, Hamilton CMA (C$ 2017)",Ontario - Hamilton,Output,dlog,1
+FET.IKIT,"Total employment, Kitchener-Cambridge-Waterloo CMA (Ths.)",Ontario - Kitchener-Cambridge-Waterloo,Labour,dlog,1
+FLBR.IKIT,"Unemployment rate, Kitchener-Cambridge-Waterloo CMA (%)",Ontario - Kitchener-Cambridge-Waterloo,Labour,diff,-1
+FHPI.IKIT,"House price index, Kitchener-Cambridge-Waterloo CMA (2005=100)",Ontario - Kitchener-Cambridge-Waterloo,Housing,dlog,1
+FHST.IKIT,"Housing starts, Kitchener-Cambridge-Waterloo CMA (#, SAAR)",Ontario - Kitchener-Cambridge-Waterloo,Housing,dlog,1
+FPOPT.IKIT,"Population, Kitchener-Cambridge-Waterloo CMA (Ths.)",Ontario - Kitchener-Cambridge-Waterloo,Demographics,dlog,1
+FGDPR.IKIT,"Real GDP, Kitchener-Cambridge-Waterloo CMA (C$ 2017)",Ontario - Kitchener-Cambridge-Waterloo,Output,dlog,1
+FET.ILON,"Total employment, London CMA (Ths.)",Ontario - London,Labour,dlog,1
+FLBR.ILON,"Unemployment rate, London CMA (%)",Ontario - London,Labour,diff,-1
+FHPI.ILON,"House price index, London CMA (2005=100)",Ontario - London,Housing,dlog,1
+FHST.ILON,"Housing starts, London CMA (#, SAAR)",Ontario - London,Housing,dlog,1
+FPOPT.ILON,"Population, London CMA (Ths.)",Ontario - London,Demographics,dlog,1
+FGDPR.ILON,"Real GDP, London CMA (C$ 2017)",Ontario - London,Output,dlog,1
+FET.IWIN,"Total employment, Windsor CMA (Ths.)",Ontario - Windsor,Labour,dlog,1
+FLBR.IWIN,"Unemployment rate, Windsor CMA (%)",Ontario - Windsor,Labour,diff,-1
+FHPI.IWIN,"House price index, Windsor CMA (2005=100)",Ontario - Windsor,Housing,dlog,1
+FHST.IWIN,"Housing starts, Windsor CMA (#, SAAR)",Ontario - Windsor,Housing,dlog,1
+FPOPT.IWIN,"Population, Windsor CMA (Ths.)",Ontario - Windsor,Demographics,dlog,1
+FGDPR.IWIN,"Real GDP, Windsor CMA (C$ 2017)",Ontario - Windsor,Output,dlog,1
+FET.IOSH,"Total employment, Oshawa CMA (Ths.)",Ontario - Oshawa,Labour,dlog,1
+FLBR.IOSH,"Unemployment rate, Oshawa CMA (%)",Ontario - Oshawa,Labour,diff,-1
+FHPI.IOSH,"House price index, Oshawa CMA (2005=100)",Ontario - Oshawa,Housing,dlog,1
+FHST.IOSH,"Housing starts, Oshawa CMA (#, SAAR)",Ontario - Oshawa,Housing,dlog,1
+FPOPT.IOSH,"Population, Oshawa CMA (Ths.)",Ontario - Oshawa,Demographics,dlog,1
+FGDPR.IOSH,"Real GDP, Oshawa CMA (C$ 2017)",Ontario - Oshawa,Output,dlog,1
+FET.ISTC,"Total employment, St. Catharines-Niagara CMA (Ths.)",Ontario - St. Catharines-Niagara,Labour,dlog,1
+FLBR.ISTC,"Unemployment rate, St. Catharines-Niagara CMA (%)",Ontario - St. Catharines-Niagara,Labour,diff,-1
+FHPI.ISTC,"House price index, St. Catharines-Niagara CMA (2005=100)",Ontario - St. Catharines-Niagara,Housing,dlog,1
+FHST.ISTC,"Housing starts, St. Catharines-Niagara CMA (#, SAAR)",Ontario - St. Catharines-Niagara,Housing,dlog,1
+FPOPT.ISTC,"Population, St. Catharines-Niagara CMA (Ths.)",Ontario - St. Catharines-Niagara,Demographics,dlog,1
+FGDPR.ISTC,"Real GDP, St. Catharines-Niagara CMA (C$ 2017)",Ontario - St. Catharines-Niagara,Output,dlog,1
+FET.IKIN,"Total employment, Kingston CMA (Ths.)",Ontario - Kingston,Labour,dlog,1
+FLBR.IKIN,"Unemployment rate, Kingston CMA (%)",Ontario - Kingston,Labour,diff,-1
+FHPI.IKIN,"House price index, Kingston CMA (2005=100)",Ontario - Kingston,Housing,dlog,1
+FHST.IKIN,"Housing starts, Kingston CMA (#, SAAR)",Ontario - Kingston,Housing,dlog,1
+FPOPT.IKIN,"Population, Kingston CMA (Ths.)",Ontario - Kingston,Demographics,dlog,1
+FGDPR.IKIN,"Real GDP, Kingston CMA (C$ 2017)",Ontario - Kingston,Output,dlog,1
+FET.IGUE,"Total employment, Guelph CMA (Ths.)",Ontario - Guelph,Labour,dlog,1
+FLBR.IGUE,"Unemployment rate, Guelph CMA (%)",Ontario - Guelph,Labour,diff,-1
+FHPI.IGUE,"House price index, Guelph CMA (2005=100)",Ontario - Guelph,Housing,dlog,1
+FHST.IGUE,"Housing starts, Guelph CMA (#, SAAR)",Ontario - Guelph,Housing,dlog,1
+FPOPT.IGUE,"Population, Guelph CMA (Ths.)",Ontario - Guelph,Demographics,dlog,1
+FGDPR.IGUE,"Real GDP, Guelph CMA (C$ 2017)",Ontario - Guelph,Output,dlog,1
+FET.IBAR,"Total employment, Barrie CMA (Ths.)",Ontario - Barrie,Labour,dlog,1
+FLBR.IBAR,"Unemployment rate, Barrie CMA (%)",Ontario - Barrie,Labour,diff,-1
+FHPI.IBAR,"House price index, Barrie CMA (2005=100)",Ontario - Barrie,Housing,dlog,1
+FHST.IBAR,"Housing starts, Barrie CMA (#, SAAR)",Ontario - Barrie,Housing,dlog,1
+FPOPT.IBAR,"Population, Barrie CMA (Ths.)",Ontario - Barrie,Demographics,dlog,1
+FGDPR.IBAR,"Real GDP, Barrie CMA (C$ 2017)",Ontario - Barrie,Output,dlog,1
+FET.ISUD,"Total employment, Greater Sudbury CMA (Ths.)",Ontario - Greater Sudbury,Labour,dlog,1
+FLBR.ISUD,"Unemployment rate, Greater Sudbury CMA (%)",Ontario - Greater Sudbury,Labour,diff,-1
+FHPI.ISUD,"House price index, Greater Sudbury CMA (2005=100)",Ontario - Greater Sudbury,Housing,dlog,1
+FHST.ISUD,"Housing starts, Greater Sudbury CMA (#, SAAR)",Ontario - Greater Sudbury,Housing,dlog,1
+FPOPT.ISUD,"Population, Greater Sudbury CMA (Ths.)",Ontario - Greater Sudbury,Demographics,dlog,1
+FGDPR.ISUD,"Real GDP, Greater Sudbury CMA (C$ 2017)",Ontario - Greater Sudbury,Output,dlog,1
+FGDPR.IC,"Real GDP, Canada",Canada,Output,dlog,1
+FGDP$.IC,"Nominal GDP, Canada",Canada,Output,dlog,1
+FCR.IC,"Real personal consumption, Canada",Canada,Consumption,dlog,1
+FIR.IC,"Real residential investment, Canada",Canada,Housing,dlog,1
+FINR.IC,"Real business non-res. investment, Canada",Canada,Investment,dlog,1
+FGR.IC,"Real government spending, Canada",Canada,Government,dlog,0
+FXR.IC,"Real exports, Canada",Canada,Trade,dlog,1
+FMR.IC,"Real imports, Canada",Canada,Trade,dlog,0
+FPGDP.IC,"GDP deflator, Canada",Canada,Prices,dlog,0
+FCPI.IC,"CPI all items, Canada",Canada,Prices,dlog,0
+FCPIXFE.IC,"CPI ex food & energy, Canada",Canada,Prices,dlog,0
+FCPISHL.IC,"CPI shelter, Canada",Canada,Prices,dlog,0
+FCPIRENT.IC,"CPI rent, Canada",Canada,Prices,dlog,0
+FPPI.IC,"Industrial product price index, Canada",Canada,Prices,dlog,0
+FRBOC.IC,Bank of Canada overnight target rate (%),Canada,Interest rates,diff,-1
+FRPRIME.IC,Chartered bank prime rate (%),Canada,Interest rates,diff,-1
+FRTB3M.IC,3-month T-bill yield (%),Canada,Interest rates,diff,-1
+FRGOV2Y.IC,2-year GoC bond yield (%),Canada,Interest rates,diff,-1
+FRGOV5Y.IC,5-year GoC bond yield (%),Canada,Interest rates,diff,-1
+FRGOV10Y.IC,10-year GoC bond yield (%),Canada,Interest rates,diff,-1
+FRGOV30Y.IC,30-year GoC bond yield (%),Canada,Interest rates,diff,-1
+FRMORT1Y.IC,1-year conventional mortgage rate (%),Canada,Interest rates,diff,-1
+FRMORT3Y.IC,3-year conventional mortgage rate (%),Canada,Interest rates,diff,-1
+FRMORT5Y.IC,5-year conventional mortgage rate (%),Canada,Interest rates,diff,-1
+FRCORPBBB.IC,BBB corporate bond yield (%),Canada,Interest rates,diff,-1
+FRSPREAD.IC,Corporate spread over GoC (pp),Canada,Financial markets,diff,-1
+FSTSX.IC,S&P/TSX composite index,Canada,Financial markets,dlog,1
+FVIXC.IC,Implied volatility index (VIXC),Canada,Financial markets,dlog,-1
+FOILWTI.IC,WTI crude oil price (US$/bbl),Canada,Commodities,dlog,0
+FOILWCS.IC,Western Canada Select (US$/bbl),Canada,Commodities,dlog,0
+FNATGAS.IC,"Natural gas price, AECO (C$/GJ)",Canada,Commodities,dlog,0
+FBCPI.IC,BoC commodity price index,Canada,Commodities,dlog,0
+FXUSCAD.IC,"Exchange rate, C$ per US$",Canada,Trade,dlog,0
+FXEURCAD.IC,"Exchange rate, C$ per Euro",Canada,Trade,dlog,0
+FM1.IC,"Money supply M1+, Canada",Canada,Money & credit,dlog,1
+FM2.IC,"Money supply M2, Canada",Canada,Money & credit,dlog,1
+FM2P.IC,"Money supply M2++, Canada",Canada,Money & credit,dlog,1
+FCRHH.IC,"Household credit outstanding, Canada",Canada,Money & credit,dlog,1
+FCRMORT.IC,"Residential mortgage credit, Canada",Canada,Money & credit,dlog,1
+FCRCONS.IC,"Consumer credit, Canada",Canada,Money & credit,dlog,1
+FCRBUS.IC,"Business credit, Canada",Canada,Money & credit,dlog,1
+FDTI.IC,Household debt-to-disposable income (%),Canada,Money & credit,diff,0
+FSAVR.IC,Household saving rate (%),Canada,Income,diff,0
+FCAPU.IC,"Capacity utilisation, non-farm (%)",Canada,Output,diff,1
+FBKBUS.IC,"Business insolvencies, Canada (#)",Canada,Credit quality,dlog,-1
+FDELMORT.IC,"Mortgage arrears rate, 90+ days (%)",Canada,Credit quality,diff,-1
+FDELCC.IC,Credit card delinquency rate (%),Canada,Credit quality,diff,-1
+FHSEXIST.IC,"Existing home sales, Canada (Ths., SAAR)",Canada,Housing,dlog,1
+FHSLR.IC,Sales-to-new-listings ratio (%),Canada,Housing,diff,1
+FBPRES.IC,Residential building permits (C$),Canada,Housing,dlog,1
+FBPNRES.IC,Non-residential building permits (C$),Canada,Investment,dlog,1
+FAUTO.IC,New motor vehicle sales (units),Canada,Consumption,dlog,1
+FCONF.IC,Consumer confidence index,Canada,Sentiment,dlog,1
+FBOS.IC,BoC business outlook indicator,Canada,Sentiment,diff,1
+FPOPIMM.IC,"Net international migration, Canada (Ths.)",Canada,Demographics,dlog,1
+FWAGE.IC,"Average hourly wages, Canada",Canada,Income,dlog,1
+FPRODL.IC,"Labour productivity, business sector",Canada,Output,dlog,0
+FULC.IC,"Unit labour costs, business sector",Canada,Prices,dlog,0
+FRENTVAC.IC,Rental vacancy rate (%),Canada,Housing,diff,0
+FGDPRN01.ION,"Real GDP: Agriculture, Ontario",Ontario,Output (by industry),dlog,1
+FEN01.ION,"Employment: Agriculture, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN01.IC,"Real GDP: Agriculture, Canada",Canada,Output (by industry),dlog,1
+FEN01.IC,"Employment: Agriculture, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN02.ION,"Real GDP: Mining & oil/gas, Ontario",Ontario,Output (by industry),dlog,1
+FEN02.ION,"Employment: Mining & oil/gas, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN02.IC,"Real GDP: Mining & oil/gas, Canada",Canada,Output (by industry),dlog,1
+FEN02.IC,"Employment: Mining & oil/gas, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN03.ION,"Real GDP: Utilities, Ontario",Ontario,Output (by industry),dlog,1
+FEN03.ION,"Employment: Utilities, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN03.IC,"Real GDP: Utilities, Canada",Canada,Output (by industry),dlog,1
+FEN03.IC,"Employment: Utilities, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN04.ION,"Real GDP: Construction, Ontario",Ontario,Output (by industry),dlog,1
+FEN04.ION,"Employment: Construction, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN04.IC,"Real GDP: Construction, Canada",Canada,Output (by industry),dlog,1
+FEN04.IC,"Employment: Construction, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN05.ION,"Real GDP: Manufacturing, Ontario",Ontario,Output (by industry),dlog,1
+FEN05.ION,"Employment: Manufacturing, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN05.IC,"Real GDP: Manufacturing, Canada",Canada,Output (by industry),dlog,1
+FEN05.IC,"Employment: Manufacturing, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN06.ION,"Real GDP: Wholesale trade, Ontario",Ontario,Output (by industry),dlog,1
+FEN06.ION,"Employment: Wholesale trade, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN06.IC,"Real GDP: Wholesale trade, Canada",Canada,Output (by industry),dlog,1
+FEN06.IC,"Employment: Wholesale trade, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN07.ION,"Real GDP: Retail trade, Ontario",Ontario,Output (by industry),dlog,1
+FEN07.ION,"Employment: Retail trade, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN07.IC,"Real GDP: Retail trade, Canada",Canada,Output (by industry),dlog,1
+FEN07.IC,"Employment: Retail trade, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN08.ION,"Real GDP: Transportation, Ontario",Ontario,Output (by industry),dlog,1
+FEN08.ION,"Employment: Transportation, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN08.IC,"Real GDP: Transportation, Canada",Canada,Output (by industry),dlog,1
+FEN08.IC,"Employment: Transportation, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN09.ION,"Real GDP: Information & culture, Ontario",Ontario,Output (by industry),dlog,1
+FEN09.ION,"Employment: Information & culture, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN09.IC,"Real GDP: Information & culture, Canada",Canada,Output (by industry),dlog,1
+FEN09.IC,"Employment: Information & culture, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN10.ION,"Real GDP: Finance & insurance, Ontario",Ontario,Output (by industry),dlog,1
+FEN10.ION,"Employment: Finance & insurance, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN10.IC,"Real GDP: Finance & insurance, Canada",Canada,Output (by industry),dlog,1
+FEN10.IC,"Employment: Finance & insurance, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN11.ION,"Real GDP: Real estate, Ontario",Ontario,Output (by industry),dlog,1
+FEN11.ION,"Employment: Real estate, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN11.IC,"Real GDP: Real estate, Canada",Canada,Output (by industry),dlog,1
+FEN11.IC,"Employment: Real estate, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN12.ION,"Real GDP: Professional services, Ontario",Ontario,Output (by industry),dlog,1
+FEN12.ION,"Employment: Professional services, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN12.IC,"Real GDP: Professional services, Canada",Canada,Output (by industry),dlog,1
+FEN12.IC,"Employment: Professional services, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN13.ION,"Real GDP: Management of companies, Ontario",Ontario,Output (by industry),dlog,1
+FEN13.ION,"Employment: Management of companies, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN13.IC,"Real GDP: Management of companies, Canada",Canada,Output (by industry),dlog,1
+FEN13.IC,"Employment: Management of companies, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN14.ION,"Real GDP: Administrative support, Ontario",Ontario,Output (by industry),dlog,1
+FEN14.ION,"Employment: Administrative support, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN14.IC,"Real GDP: Administrative support, Canada",Canada,Output (by industry),dlog,1
+FEN14.IC,"Employment: Administrative support, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN15.ION,"Real GDP: Educational services, Ontario",Ontario,Output (by industry),dlog,1
+FEN15.ION,"Employment: Educational services, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN15.IC,"Real GDP: Educational services, Canada",Canada,Output (by industry),dlog,1
+FEN15.IC,"Employment: Educational services, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN16.ION,"Real GDP: Health care, Ontario",Ontario,Output (by industry),dlog,1
+FEN16.ION,"Employment: Health care, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN16.IC,"Real GDP: Health care, Canada",Canada,Output (by industry),dlog,1
+FEN16.IC,"Employment: Health care, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN17.ION,"Real GDP: Arts & recreation, Ontario",Ontario,Output (by industry),dlog,1
+FEN17.ION,"Employment: Arts & recreation, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN17.IC,"Real GDP: Arts & recreation, Canada",Canada,Output (by industry),dlog,1
+FEN17.IC,"Employment: Arts & recreation, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN18.ION,"Real GDP: Accommodation & food, Ontario",Ontario,Output (by industry),dlog,1
+FEN18.ION,"Employment: Accommodation & food, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN18.IC,"Real GDP: Accommodation & food, Canada",Canada,Output (by industry),dlog,1
+FEN18.IC,"Employment: Accommodation & food, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN19.ION,"Real GDP: Other services, Ontario",Ontario,Output (by industry),dlog,1
+FEN19.ION,"Employment: Other services, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN19.IC,"Real GDP: Other services, Canada",Canada,Output (by industry),dlog,1
+FEN19.IC,"Employment: Other services, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPRN20.ION,"Real GDP: Public administration, Ontario",Ontario,Output (by industry),dlog,1
+FEN20.ION,"Employment: Public administration, Ontario (Ths.)",Ontario,Labour (by industry),dlog,1
+FGDPRN20.IC,"Real GDP: Public administration, Canada",Canada,Output (by industry),dlog,1
+FEN20.IC,"Employment: Public administration, Canada (Ths.)",Canada,Labour (by industry),dlog,1
+FGDPR.IUSA,"Real GDP, United States",United States,US economy,dlog,1
+FLBR.IUSA,"Unemployment rate, United States (%)",United States,US economy,diff,-1
+FRFED.IUSA,Federal funds rate (%),United States,US economy,diff,-1
+FRGOV10Y.IUSA,US 10-year Treasury yield (%),United States,US economy,diff,-1
+FRMORT30.IUSA,US 30-year mortgage rate (%),United States,US economy,diff,-1
+FCPI.IUSA,"CPI-U, United States",United States,US economy,dlog,0
+FHPI.IUSA,"Case-Shiller home price index, US",United States,US economy,dlog,1
+FIP.IUSA,"Industrial production, US",United States,US economy,dlog,1
+FSP500.IUSA,S&P 500 index,United States,US economy,dlog,1
+FCSENT.IUSA,U. Michigan consumer sentiment,United States,US economy,dlog,1
+FHST.IUSA,"Housing starts, US (Mil., SAAR)",United States,US economy,dlog,1
+FRETAIL.IUSA,"Retail sales, US",United States,US economy,dlog,1
+FET.IUSA,"Nonfarm payrolls, US",United States,US economy,dlog,1
+FBAA.IUSA,Moody's Baa corporate yield (%),United States,US economy,diff,-1
+FDJIA.IUSA,Dow Jones industrial average,United States,US economy,dlog,1
+FHSEXIST.ION,"Existing home sales, Ontario (Ths.)",Ontario,Housing,dlog,1
+FHPICONDO.ITOR,"Condo apartment price index, Toronto",Ontario,Housing,dlog,1
+FHPISFD.ITOR,"Single-detached price index, Toronto",Ontario,Housing,dlog,1
+FRENT.ITOR,"Average rent, 2-bedroom, Toronto (C$)",Ontario,Housing,dlog,0
+FBPRES.ION,"Residential building permits, Ontario (C$)",Ontario,Housing,dlog,1
+FGOVBAL.ION,Ontario budget balance (% of GDP),Ontario,Government,diff,0
+FGOVDEBT.ION,Ontario net debt (% of GDP),Ontario,Government,diff,0
+FWAGE.ION,"Average hourly wages, Ontario",Ontario,Income,dlog,1
+FMFGSHIP.ION,"Manufacturing shipments, Ontario (C$)",Ontario,Output,dlog,1
+FAUTOPROD.ION,"Motor vehicle production, Ontario (units)",Ontario,Output,dlog,1
+FEXP.ION,"International exports, Ontario (C$)",Ontario,Trade,dlog,1
+FCONF.ION,"Consumer confidence, Ontario",Ontario,Sentiment,dlog,1
+FPOPIMM.ION,"Net international migration, Ontario (Ths.)",Ontario,Demographics,dlog,1
+FPOP2544.ION,"Population aged 25-44, Ontario (Ths.)",Ontario,Demographics,dlog,1
+FPOP65.ION,"Population aged 65+, Ontario (Ths.)",Ontario,Demographics,dlog,0
+FHHFORM.ION,"Household formation, Ontario (Ths.)",Ontario,Demographics,dlog,1
+FLBRPART.ION,"Participation rate, Ontario (%)",Ontario,Labour,diff,1
+FLBRYOUTH.ION,"Youth unemployment rate, Ontario (%)",Ontario,Labour,diff,-1
+FEFT.ION,"Full-time employment, Ontario (Ths.)",Ontario,Labour,dlog,1
+FEPT.ION,"Part-time employment, Ontario (Ths.)",Ontario,Labour,dlog,0
+FHOURS.ION,"Average weekly hours, Ontario",Ontario,Labour,dlog,1
+FCPISHL.ION,"CPI shelter, Ontario",Ontario,Prices,dlog,0
+FCPIENE.ION,"CPI energy, Ontario",Ontario,Prices,dlog,0
+FCPIFOOD.ION,"CPI food, Ontario",Ontario,Prices,dlog,0
+FAFFORD.ION,"Housing affordability index, Ontario",Ontario,Housing,diff,0
+FMISC001.IC,Miscellaneous indicator 1 (survey/diffusion index),Canada,Other,dlog,0
+FMISC002.IC,Miscellaneous indicator 2 (survey/diffusion index),Canada,Other,dlog,0
+FMISC003.IC,Miscellaneous indicator 3 (survey/diffusion index),Canada,Other,dlog,0
+FMISC004.IC,Miscellaneous indicator 4 (survey/diffusion index),Canada,Other,dlog,0
+FMISC005.IC,Miscellaneous indicator 5 (survey/diffusion index),Canada,Other,dlog,0
+FMISC006.IC,Miscellaneous indicator 6 (survey/diffusion index),Canada,Other,dlog,0
+FMISC007.IC,Miscellaneous indicator 7 (survey/diffusion index),Canada,Other,dlog,0
+FMISC008.IC,Miscellaneous indicator 8 (survey/diffusion index),Canada,Other,dlog,0
+FMISC009.IC,Miscellaneous indicator 9 (survey/diffusion index),Canada,Other,dlog,0
+FMISC010.IC,Miscellaneous indicator 10 (survey/diffusion index),Canada,Other,dlog,0
+FMISC011.IC,Miscellaneous indicator 11 (survey/diffusion index),Canada,Other,dlog,0
+FMISC012.IC,Miscellaneous indicator 12 (survey/diffusion index),Canada,Other,dlog,0
+FMISC013.IC,Miscellaneous indicator 13 (survey/diffusion index),Canada,Other,dlog,0
+FMISC014.IC,Miscellaneous indicator 14 (survey/diffusion index),Canada,Other,dlog,0
+FMISC015.IC,Miscellaneous indicator 15 (survey/diffusion index),Canada,Other,dlog,0
+FMISC016.IC,Miscellaneous indicator 16 (survey/diffusion index),Canada,Other,dlog,0
+FMISC017.IC,Miscellaneous indicator 17 (survey/diffusion index),Canada,Other,dlog,0
+FMISC018.IC,Miscellaneous indicator 18 (survey/diffusion index),Canada,Other,dlog,0
+FMISC019.IC,Miscellaneous indicator 19 (survey/diffusion index),Canada,Other,dlog,0

@@ -1,0 +1,4 @@
+model,n_obs,adj_R2,BIC,max p-value of drivers,max VIF,Ljung-Box p (4),Ljung-Box p (8),Breusch-Pagan p,Jarque-Bera p,Durbin-Watson,CUSUM p,wrong-sign drivers
+AR(1) benchmark,95,0.381,-735.8,,1.0,0.234,0.375,0.666,0.694,2.12,0.679,none
+Screen first,95,0.675,-790.1,0.0,1.2,0.23,0.546,0.57,0.961,2.23,0.275,none
+Elastic Net first,95,0.69,-794.6,0.0,1.24,0.618,0.78,0.601,0.662,2.14,0.135,none

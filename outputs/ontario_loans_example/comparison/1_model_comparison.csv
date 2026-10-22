@@ -1,0 +1,4 @@
+model,avg_MAPE_exCOVID_pct,avg_MAPE_all_pct,avg_bias_exCOVID_pct,MAPE_h1_exCOVID_pct,MAPE_h4_exCOVID_pct,MAPE_h9_exCOVID_pct,improvement_vs_benchmark_pct,drivers
+AR(1) benchmark,1.501,1.586,-0.368,0.344,1.299,2.504,0.0,(none)
+Screen first,0.612,0.55,-0.429,0.233,0.499,1.039,59.22,"FHPISFD.ITOR|dlog|L1, FYPD.ION|dlog|L1"
+Elastic Net first,0.72,0.635,-0.515,0.226,0.616,1.229,51.998,"FHPI.ION|dlog|L1, FYPD.ION|dlog|L1"

@@ -1,0 +1,8 @@
+time,step,status,key,seconds,vs_previous_run
+2026-10-22T19:36:31,data,computed,6e1031053d465085,0.0,new step
+2026-10-22T19:36:31,features,computed,0e898be00f788e03,4.12,new step
+2026-10-22T19:36:31,screen_first,computed,3688e084778ec00d,6.08,new step
+2026-10-22T19:36:31,en_first,computed,5a0c3e5ecba84d4e,8.31,new step
+2026-10-22T19:36:31,evaluate:AR(1) benchmark,computed,d0d4bf3977ad721c,0.39,new step
+2026-10-22T19:36:31,evaluate:Screen first,computed,545b306e9e49893f,0.37,new step
+2026-10-22T19:36:31,evaluate:Elastic Net first,computed,3a0fbc834fd42f0e,0.39,new step
